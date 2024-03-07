@@ -1,5 +1,5 @@
 import NextAuth from 'next-auth';
-import { authConfig } from './auth.config';
+import { authConfig } from '../configs/auth.config';
 import Credentials from "@auth/core/providers/credentials";
 
 export const { auth, signIn, signOut } = NextAuth({
@@ -7,6 +7,7 @@ export const { auth, signIn, signOut } = NextAuth({
   providers: [
     Credentials({
       async authorize(credentials) {
+        console.log(credentials, 'credentials');
         console.log(666);
         return null;
         // const parsedCredentials = z

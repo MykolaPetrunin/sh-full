@@ -3,15 +3,60 @@ generator client {
 }
 
 datasource db {
-  provider = "postgresql" // Або інший провайдер, залежно від вашої БД
+  provider = "postgresql"
   url      = env("DATABASE_URL")
 }
 
 model User {
-  id        String   @id @default(cuid())
+  id        String    @id @default(cuid())
   name      String
   avatar    String?
-  email     String   @unique
-  createdAt DateTime @default(now())
-  updatedAt DateTime @updatedAt
+  email     String    @unique
+  createdAt DateTime  @default(now())
+  updatedAt DateTime  @updatedAt
+  products  Product[]
+  recipes   Recipe[]
+}
+
+model Product {
+  id             String          @id @default(cuid())
+  title          String
+  proteins       Float
+  carbohydrates  Float
+  fats           Float
+  barcode        String?
+  description    String?
+  userId         String
+  user           User            @relation(fields: [userId], references: [id], onDelete: Cascade)
+  createdAt      DateTime        @default(now())
+  updatedAt      DateTime        @updatedAt
+  recipeProducts RecipeProduct[]
+
+  @@unique([title, userId])
+  @@index([title]) // Prisma конвертує це у B-tree індекс
+}
+
+model Recipe {
+  id             String          @id @default(cuid())
+  title          String
+  description    String?
+  userId         String
+  user           User            @relation(fields: [userId], references: [id], onDelete: Cascade)
+  createdAt      DateTime        @default(now())
+  updatedAt      DateTime        @updatedAt
+  recipeProducts RecipeProduct[]
+
+  @@unique([title, userId])
+  @@index([title])
+}
+
+model RecipeProduct {
+  recipeId  String
+  productId String
+  quantity  Int
+
+  recipe  Recipe  @relation(fields: [recipeId], references: [id], onDelete: Cascade)
+  product Product @relation(fields: [productId], references: [id], onDelete: Cascade)
+
+  @@id([recipeId, productId])
 }

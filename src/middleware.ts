@@ -17,11 +17,15 @@ export async function middleware(request: NextRequest) {
                     headers: requestHeaders
                 }
             });
-        return NextResponse.redirect(new URL(appPaths.home, request.url));
+        return NextResponse.redirect(new URL(appPaths.meals, request.url));
     }
 
     if (!user) {
         return NextResponse.redirect(new URL(appPaths.auth.login, request.url));
+    }
+
+    if (request.nextUrl.pathname === appPaths.home) {
+        return NextResponse.redirect(new URL(appPaths.meals, request.url));
     }
 }
 

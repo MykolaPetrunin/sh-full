@@ -2,6 +2,7 @@ import { FC, useCallback, useState } from 'react';
 import { useForm } from 'react-hook-form';
 import { z } from 'zod';
 import { zodResolver } from '@hookform/resolvers/zod';
+import { LoaderPinwheelIcon } from 'lucide-react';
 
 import { Input } from '@/components/ui/input';
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '@/components/ui/card';
@@ -119,7 +120,8 @@ export const LoginForm: FC<{
                                         )}
                                     />
                                     <Button type="submit" className="w-full" disabled={form.formState.isSubmitting || isGoogleSignInLoading}>
-                                        {form.formState.isSubmitting ? loginFormTexts.buttons.loading : loginFormTexts.buttons.login}
+                                        {form.formState.isSubmitting && <LoaderPinwheelIcon className="animate-spin" />}
+                                        {loginFormTexts.buttons.login}
                                     </Button>
                                 </form>
                             </Form>

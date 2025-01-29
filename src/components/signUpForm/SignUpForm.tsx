@@ -2,6 +2,7 @@ import { FC } from 'react';
 import { z } from 'zod';
 import { useForm } from 'react-hook-form';
 import { zodResolver } from '@hookform/resolvers/zod';
+import { LoaderPinwheelIcon } from 'lucide-react';
 
 import { Button } from '@/components/ui/button';
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
@@ -78,7 +79,8 @@ export const SignUpForm: FC<{ back: () => void; signUp: (val: SignUpData) => Pro
                                     {signUpFormTexts.buttons.back}
                                 </Button>
                                 <Button type="submit" className="grow" disabled={form.formState.isSubmitting}>
-                                    {form.formState.isSubmitting ? signUpFormTexts.buttons.loading : signUpFormTexts.buttons.signUp}
+                                    {form.formState.isSubmitting && <LoaderPinwheelIcon className="animate-spin" />}
+                                    {signUpFormTexts.buttons.signUp}
                                 </Button>
                             </div>
                         </form>

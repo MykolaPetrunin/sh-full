@@ -2,6 +2,7 @@ import { FC, useState } from 'react';
 import { useForm } from 'react-hook-form';
 import { z } from 'zod';
 import { zodResolver } from '@hookform/resolvers/zod';
+import { LoaderPinwheelIcon } from 'lucide-react';
 
 import { Input } from '@/components/ui/input';
 import { Card, CardContent, CardDescription, CardFooter, CardHeader, CardTitle } from '@/components/ui/card';
@@ -72,7 +73,8 @@ export const ResetPasswordForm: FC<{
                                 {resetPasswordFormTexts.buttons.back}
                             </Button>
                             <Button type="submit" className="grow" disabled={form.formState.isSubmitting}>
-                                {form.formState.isSubmitting ? resetPasswordFormTexts.buttons.loading : resetPasswordFormTexts.buttons.submit}
+                                {form.formState.isSubmitting && <LoaderPinwheelIcon className="animate-spin" />}
+                                {resetPasswordFormTexts.buttons.submit}
                             </Button>
                         </div>
                     </CardFooter>

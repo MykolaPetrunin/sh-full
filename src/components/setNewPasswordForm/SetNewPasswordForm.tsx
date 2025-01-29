@@ -3,6 +3,7 @@ import Link from 'next/link';
 import { useForm } from 'react-hook-form';
 import { z } from 'zod';
 import { zodResolver } from '@hookform/resolvers/zod';
+import { LoaderPinwheelIcon } from 'lucide-react';
 
 import { Card, CardContent, CardDescription, CardFooter, CardHeader, CardTitle } from '@/components/ui/card';
 import { setNewPasswordFormTexts } from '@/components/setNewPasswordForm/texts';
@@ -81,7 +82,8 @@ export const SetNewPasswordForm: FC<{
                                 {setNewPasswordFormTexts.buttons.backToLogin}
                             </Link>
                             <Button type="submit" className="grow" disabled={form.formState.isSubmitting}>
-                                {form.formState.isSubmitting ? setNewPasswordFormTexts.buttons.loading : setNewPasswordFormTexts.buttons.submit}
+                                {form.formState.isSubmitting && <LoaderPinwheelIcon className="animate-spin" />}
+                                {setNewPasswordFormTexts.buttons.submit}
                             </Button>
                         </div>
                     </CardFooter>

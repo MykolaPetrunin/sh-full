@@ -1,9 +1,11 @@
 'use client';
 
 import { FC, useCallback, useState } from 'react';
+import { LogOut } from 'lucide-react';
 
-import { Button } from '@/components/ui/button';
 import { useSignOut } from '@/containers/auth/hooks/useSignOut';
+import { DropdownMenuItem } from '@/components/ui/dropdown-menu';
+import { signOutButtonText } from '@/containers/signOutButton/texts';
 
 export const SignOutButton: FC = () => {
     const signOut = useSignOut();
@@ -16,8 +18,9 @@ export const SignOutButton: FC = () => {
     }, [signOut]);
 
     return (
-        <Button variant="outline" disabled={loading} onClick={handleSignOut}>
-            Sign Out
-        </Button>
+        <DropdownMenuItem disabled={loading} onClick={handleSignOut}>
+            <LogOut />
+            {signOutButtonText.text}
+        </DropdownMenuItem>
     );
 };

@@ -12,13 +12,13 @@ const MainLayout: FC<PropsWithChildren> = async ({ children }) => {
     return (
         <SidebarProvider>
             <AppSidebar user={currentUser!} />
-            <SidebarInset>
-                <header className="flex h-16 shrink-0 items-center gap-2 border-b px-4">
+            <SidebarInset className="flex flex-col">
+                <header className="flex h-16 shrink-0 items-center gap-2 border-b px-4 sticky top-0 bg-background">
                     <SidebarTrigger />
                     <Separator orientation="vertical" className="mr-2 h-4" />
                     <AppBreadcrumbs />
                 </header>
-                <main>{children}</main>
+                <main className="grow">{children}</main>
             </SidebarInset>
         </SidebarProvider>
     );

@@ -1,7 +1,15 @@
 import { FC } from 'react';
 
-const ProductsPage: FC = async () => {
-    return <div>ProductsPage</div>;
+import { Products } from '@/containers/products/Products';
+
+const ProductsPage: FC = async (props: {
+    searchParams?: Promise<{
+        search?: string;
+    }>;
+}) => {
+    const searchParams = await props.searchParams;
+
+    return <Products searchText={searchParams?.search || ''} />;
 };
 
 export default ProductsPage;

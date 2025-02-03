@@ -15,6 +15,9 @@ const compat = new FlatCompat({
 const eslintConfig = [
     ...compat.extends('next/core-web-vitals', 'plugin:@typescript-eslint/recommended', 'prettier'),
     {
+        ignores: ['prisma/**/*']
+    },
+    {
         files: ['**/*.ts', '**/*.tsx', '**/*.js', '**/*.jsx'],
         languageOptions: {
             parser: typescriptParser,

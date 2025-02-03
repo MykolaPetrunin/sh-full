@@ -1,0 +1,3698 @@
+[
+  {
+    "id": "0038b09a-3a0d-449b-b0a4-44e7d6889029",
+    "proteins": 5.9,
+    "carbohydrates": 39.27,
+    "fats": 6.21,
+    "title": "Пиріг з яблуками на кефірі",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "00a61e54-e609-4b54-938a-93d09aba8833",
+    "proteins": 0.6,
+    "carbohydrates": 5.7,
+    "fats": 0.3,
+    "title": "Гарбузи",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "00b34e07-0223-4452-8d98-828d8b01a53b",
+    "proteins": 1.3,
+    "carbohydrates": 6,
+    "fats": 0.1,
+    "title": "Капуста",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "00f55e2e-934d-4a2d-b216-eedc573eeced",
+    "proteins": 7.55,
+    "carbohydrates": 22.18,
+    "fats": 1.97,
+    "title": "Пельмені з Vici з яловичиною варені",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "0143532a-adad-4009-ab70-e7fc193ded30",
+    "proteins": 0.02,
+    "carbohydrates": 80,
+    "fats": 2,
+    "title": "Цукерки",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "01ab0dd9-d3a9-422f-b957-69dd2210ad45",
+    "proteins": 14.5,
+    "carbohydrates": 0,
+    "fats": 30.5,
+    "title": "Вугор",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "02871e24-05ab-4be1-b4f3-81f964af6616",
+    "proteins": 17.9,
+    "carbohydrates": 0,
+    "fats": 20.1,
+    "title": "Бринза з коровʼячого молока",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "036adf72-3603-4fb1-9b46-d0679d38b191",
+    "proteins": 0.9,
+    "carbohydrates": 8.4,
+    "fats": 0.2,
+    "title": "Апельсини",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "03c2490e-6406-4a98-a0d4-cc79e2c97ea1",
+    "proteins": 25,
+    "carbohydrates": 0,
+    "fats": 35,
+    "title": "Matured cheese",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "0411aee3-0057-454c-b32d-a9a20d131374",
+    "proteins": 12.62,
+    "carbohydrates": 10.31,
+    "fats": 4.96,
+    "title": "Печінкові оладки",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "04c25ef3-58c6-48fd-8c43-2879a14ffec6",
+    "proteins": 3.7,
+    "carbohydrates": 23.22,
+    "fats": 0.16,
+    "title": "Кус кус",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "05818b3c-a177-4311-8d34-def44887f7b4",
+    "proteins": 12.2,
+    "carbohydrates": 71.5,
+    "fats": 2,
+    "title": "Piccolini Barilla",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "05ed5597-d58d-46f3-b02a-39468d5720a5",
+    "proteins": 3.8,
+    "carbohydrates": 19,
+    "fats": 8,
+    "title": "Зрази картопляні",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "06e6c8a9-f4fb-4c33-82bf-6ebbc76c5158",
+    "proteins": 3.3,
+    "carbohydrates": 81.8,
+    "fats": 7.5,
+    "title": "Ірис",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "07041c70-a4e0-4fd7-b9d6-1e10ce255664",
+    "proteins": 22.4,
+    "carbohydrates": 12.6,
+    "fats": 55.9,
+    "title": "Мигдальна мука",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "07472d0b-b80a-4992-abb3-2eab8aa5adfb",
+    "proteins": 13,
+    "carbohydrates": 14,
+    "fats": 65,
+    "title": "Кокосова стружка",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "07c66eaf-76a0-4fbe-917d-eabd0e4eedb5",
+    "proteins": 3.55,
+    "carbohydrates": 2.92,
+    "fats": 4.83,
+    "title": "Окрошка",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "080824a2-5288-4b53-823b-67259671158e",
+    "proteins": 0.7,
+    "carbohydrates": 8.6,
+    "fats": 0.5,
+    "title": "Брусника",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "0924fd9b-3196-4aab-9977-76007501675a",
+    "proteins": 5,
+    "carbohydrates": 3.5,
+    "fats": 1.5,
+    "title": "Йогурт натуральний 1.5% жирності",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "0952bc0a-f380-4bfd-9cbf-713909e23125",
+    "proteins": 17.4,
+    "carbohydrates": 0,
+    "fats": 3.1,
+    "title": "Говяжа печінка",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "0b20294b-22ce-45a8-92bb-40c1fc543110",
+    "proteins": 27,
+    "carbohydrates": 31,
+    "fats": 23,
+    "title": "Дабл Чізбургер",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "0b4badc5-33bd-4bb9-8496-ffadeb998daf",
+    "proteins": 12.7,
+    "carbohydrates": 50.6,
+    "fats": 29.9,
+    "title": "Тахінна халва",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "0b73aa9a-1ab0-447b-8390-81cc8fa82ca4",
+    "proteins": 17.1,
+    "carbohydrates": 0,
+    "fats": 4.1,
+    "title": "Лящ",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "0e0bec65-4118-4e0c-a4a3-a0eb15df9c24",
+    "proteins": 14.38,
+    "carbohydrates": 15.8,
+    "fats": 8.49,
+    "title": "Творожні бублики",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "0e1ebb3d-b71d-44cb-9019-658a0dd72286",
+    "proteins": 10,
+    "carbohydrates": 4,
+    "fats": 23,
+    "title": "Сир Філадельфія",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "0e62ac30-5dcd-45e0-87ce-fc7dc7436dde",
+    "proteins": 1.5,
+    "carbohydrates": 5.3,
+    "fats": 0.1,
+    "title": "Щавель",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "0ecbe55f-3baf-4338-93de-4a6ce9e7615b",
+    "proteins": 2.99,
+    "carbohydrates": 8.81,
+    "fats": 2.77,
+    "title": "Вівсянка",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "0f525ded-7a9e-426b-93d1-6d0f1e5b9610",
+    "proteins": 14,
+    "carbohydrates": 0.8,
+    "fats": 24,
+    "title": "Lula kebab",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "0f9b869c-a13d-4932-b50b-06444ea274d4",
+    "proteins": 0.14,
+    "carbohydrates": 19.61,
+    "fats": 0.55,
+    "title": "Spahettini вареные",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "0fb14ef5-1ac1-4c99-b5ac-36d8c4f93ddc",
+    "proteins": 4.05,
+    "carbohydrates": 22.61,
+    "fats": 1.91,
+    "title": "Млинці на білому борошні з рослинним молоком",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "1034b589-8c6a-43a2-b7b1-42979453762f",
+    "proteins": 5.1,
+    "carbohydrates": 30,
+    "fats": 4.7,
+    "title": "Вареники з картоплею",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "11508754-d305-42a9-bc66-c91258686d68",
+    "proteins": 8.6,
+    "carbohydrates": 60.5,
+    "fats": 22.5,
+    "title": "Snickers",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "11cb283e-3322-4378-8792-e6d7796b2805",
+    "proteins": 0.5,
+    "carbohydrates": 3.6,
+    "fats": 0,
+    "title": "Пиво",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "11ee8317-7b2f-4968-8161-8f08a2274c08",
+    "proteins": 10.1,
+    "carbohydrates": 78.2,
+    "fats": 6.1,
+    "title": "Рис басматі",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "1271ac50-60f5-4463-b138-5f9e9d8881b3",
+    "proteins": 2.71,
+    "carbohydrates": 17.61,
+    "fats": 4.37,
+    "title": "Молода картопля з кропом",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "13059060-97f1-44e3-b276-1989e316ce2b",
+    "proteins": 4.02,
+    "carbohydrates": 7.25,
+    "fats": 5.71,
+    "title": "Жарке зі сметаною",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "13331e3d-693e-4f9a-b1d1-85c124b2f272",
+    "proteins": 0,
+    "carbohydrates": 0,
+    "fats": 0,
+    "title": "Вода",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "135cec52-0c95-47f8-b19d-63122ab7d9e8",
+    "proteins": 0.9,
+    "carbohydrates": 3,
+    "fats": 0.2,
+    "title": "Морська капуста",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "137e361f-392e-4abb-8562-d58622c2a808",
+    "proteins": 3,
+    "carbohydrates": 4,
+    "fats": 10,
+    "title": "Збиті вершки 10%",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "13dcdf38-8112-433c-85f8-cb360cd0e8e1",
+    "proteins": 11.9,
+    "carbohydrates": 55,
+    "fats": 5.8,
+    "title": "Вівсяна",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "13e929a5-20d2-420f-8475-0ca9cfaa6bff",
+    "proteins": 7.68,
+    "carbohydrates": 24.62,
+    "fats": 5.45,
+    "title": "Пельмені vici з куркою варені",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "14786877-aabb-4a07-a3e3-32be70c2a9ca",
+    "proteins": 6.7,
+    "carbohydrates": 50,
+    "fats": 28,
+    "title": "Milka choko snack",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "1606df77-e0e2-404c-adb2-0b4e853e9758",
+    "proteins": 3.28,
+    "carbohydrates": 4.65,
+    "fats": 0.66,
+    "title": "Броколі",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "16517e10-32cc-46c8-af12-81b5b64fbb5a",
+    "proteins": 18.8,
+    "carbohydrates": 0,
+    "fats": 3.6,
+    "title": "Печінка свиняча",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "166114f7-d73b-4aa8-9717-7a6fa6b6418b",
+    "proteins": 6.3,
+    "carbohydrates": 7.56,
+    "fats": 5.04,
+    "title": "Рагу в духовці",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "171b0eca-07bb-4761-ad5f-9e1d69e6c099",
+    "proteins": 7.35,
+    "carbohydrates": 19.62,
+    "fats": 19.04,
+    "title": "Чізкейк",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "18216d4d-dbf5-4893-926a-1442cb1f359b",
+    "proteins": 0.7,
+    "carbohydrates": 8,
+    "fats": 0.3,
+    "title": "Полуниця",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "18cc221e-c34c-4c7d-9941-cc1986a1b052",
+    "proteins": 16,
+    "carbohydrates": 30,
+    "fats": 13,
+    "title": "Чізбургер",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "18db20fe-c54c-4bb0-aa4a-9f592b6c18a9",
+    "proteins": 6.5,
+    "carbohydrates": 75.4,
+    "fats": 0.2,
+    "title": "Залізні конфети",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "1983560f-2e29-4091-9885-e14fd19ec9a1",
+    "proteins": 84,
+    "carbohydrates": 5.2,
+    "fats": 1.6,
+    "title": "Банановий протеїн",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "1a208f7a-eee1-4d18-ba6a-bfaaaadf31ce",
+    "proteins": 1,
+    "carbohydrates": 6.5,
+    "fats": 1.5,
+    "title": "Молоко мультизлакове vega",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "1a347a07-b1a0-4b6c-adc8-606e01a8e374",
+    "proteins": 1.9,
+    "carbohydrates": 7,
+    "fats": 0.1,
+    "title": "Редька",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "1a6f942d-c1cc-4be4-967c-d0173a1bdd2b",
+    "proteins": 18.5,
+    "carbohydrates": 0,
+    "fats": 0.9,
+    "title": "Окунь річковий",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "1b7a22bb-f29f-48ea-9a2d-05ccd35d40b3",
+    "proteins": 0.6,
+    "carbohydrates": 7,
+    "fats": 0.2,
+    "title": "Світі",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "1c989ec8-276c-4617-a49d-aebdbf136ebf",
+    "proteins": 5.65,
+    "carbohydrates": 31.31,
+    "fats": 0.88,
+    "title": "Спагетті Barilla варені",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "1d88c15a-28db-4717-b4e8-0e12f210738b",
+    "proteins": 4.6783624,
+    "carbohydrates": 16.666666,
+    "fats": 0.73099416,
+    "title": "Каша пшенична варена",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "1dc06575-8f05-4af0-97ff-2588341044bd",
+    "proteins": 4.89,
+    "carbohydrates": 38.29,
+    "fats": 2.55,
+    "title": "Шарлотка",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "1e5462b8-32a3-4b04-bb80-35b924159f78",
+    "proteins": 9.3,
+    "carbohydrates": 73.7,
+    "fats": 1.1,
+    "title": "Перлова крупа",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "1ee990bc-1cbe-430b-b366-28ba0e89c774",
+    "proteins": 26,
+    "carbohydrates": 13,
+    "fats": 48,
+    "title": "Peanut butter crunchi",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "2005d385-a165-464b-aa6f-53da3e87499d",
+    "proteins": 7,
+    "carbohydrates": 73.7,
+    "fats": 0.6,
+    "title": "Рисова крупа",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "20c8ea0b-d877-46ed-9b3b-7ba13dd32504",
+    "proteins": 0.8,
+    "carbohydrates": 80.3,
+    "fats": 0,
+    "title": "Мед",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "224d1170-62dd-4d11-bf9a-f0714751b7c3",
+    "proteins": 6.9,
+    "carbohydrates": 52.4,
+    "fats": 35.7,
+    "title": "Шоколад молочний",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "22705996-b7f6-40ef-83ca-d2e55512d3d6",
+    "proteins": 2.5,
+    "carbohydrates": 3.22,
+    "fats": 5.42,
+    "title": "Салат грецький",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "22ed355a-e111-4547-93b5-7b50254519b4",
+    "proteins": 25.4,
+    "carbohydrates": 0.001,
+    "fats": 34.9,
+    "title": "British Cheddar Mature",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "24873519-2582-4c06-868b-089e2cc19a28",
+    "proteins": 3,
+    "carbohydrates": 2.9,
+    "fats": 10,
+    "title": "Сметана 10%",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "250625ec-b771-47f4-a867-e4ec3d3d99a6",
+    "proteins": 12,
+    "carbohydrates": 69.3,
+    "fats": 2.9,
+    "title": "Пшоно",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "25cc8336-cefc-4eac-aaca-4aa61a9ccab7",
+    "proteins": 2.3,
+    "carbohydrates": 71.2,
+    "fats": 0.5,
+    "title": "Розини",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "2631585d-8f7f-4ed3-a56d-efbae441517a",
+    "proteins": 3.93,
+    "carbohydrates": 24.79,
+    "fats": 12.4,
+    "title": "Гарбузовий пиріг",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "26757668-53fc-4069-9807-2ed353dfd196",
+    "proteins": 0.1,
+    "carbohydrates": 85.5,
+    "fats": 5.4,
+    "title": "Mamba",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "27b968b9-8fd4-4ba6-a493-c027ef9bcb7a",
+    "proteins": 2.6,
+    "carbohydrates": 49,
+    "fats": 3.2,
+    "title": "Tagliolini",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "27cf547a-896f-4fae-96fa-fc2bce1b14c3",
+    "proteins": 0.6,
+    "carbohydrates": 5.5,
+    "fats": 0.1,
+    "title": "Баклажани",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "283e2c60-5985-4c23-b010-957cf28c1c55",
+    "proteins": 8.09,
+    "carbohydrates": 5.63,
+    "fats": 16.3,
+    "title": "Олівʼє",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "28c917b8-7949-4873-ab04-6a87a3c3c5a8",
+    "proteins": 7.1,
+    "carbohydrates": 3.54,
+    "fats": 7.62,
+    "title": "Перець фарширований сир і рис",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "29ab945a-120d-4764-9286-b439bb0a8826",
+    "proteins": 12.8,
+    "carbohydrates": 70.9,
+    "fats": 2,
+    "title": "Спагеті Barrilla #5",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "29f80034-d302-40ba-bce4-aac7cecce110",
+    "proteins": 9.424242,
+    "carbohydrates": 24.981817,
+    "fats": 24.64394,
+    "title": "Вафлі бельгійські з творогом",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "2b9c0daf-ca93-4f46-9930-7e0ffe4f4d57",
+    "proteins": 10,
+    "carbohydrates": 3.2,
+    "fats": 9,
+    "title": "Ricotta",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "2b9d2a87-d8b1-46ed-ba0f-4128e210887e",
+    "proteins": 16.4,
+    "carbohydrates": 0,
+    "fats": 27.8,
+    "title": "Свинина не жирна",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "2c1822c7-ee3c-4e81-81a4-18c2dc3e1545",
+    "proteins": 8.32,
+    "carbohydrates": 30.94,
+    "fats": 31.237778,
+    "title": "Брауні",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "2ca0e0e0-4184-4e5c-932b-b377ad6d992d",
+    "proteins": 17.6,
+    "carbohydrates": 0,
+    "fats": 5.2,
+    "title": "Окунь морський",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "2ce79243-d166-4c94-8b44-881ad3852236",
+    "proteins": 15,
+    "carbohydrates": 17,
+    "fats": 44,
+    "title": "Шоколад 90%",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "2d7b361a-c64c-46c6-8f86-5a541688d3ad",
+    "proteins": 3.3,
+    "carbohydrates": 3.4,
+    "fats": 0.5,
+    "title": "Гриби Підосиновики свіжі",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "2df2b028-0ba2-4c87-b8ae-008510e2f823",
+    "proteins": 2,
+    "carbohydrates": 5,
+    "fats": 0.3,
+    "title": "Кольорова капуста",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "2df4a379-0a89-4062-b966-2e9db065d2b8",
+    "proteins": 8.76,
+    "carbohydrates": 11.41,
+    "fats": 9.34,
+    "title": "Лазанья",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "324a838b-156c-4c26-8c87-8e5710142112",
+    "proteins": 12.3,
+    "carbohydrates": 0,
+    "fats": 13.7,
+    "title": "Говяжа вимʼя",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "32697e54-1195-4c4a-b18e-7232f7d868d1",
+    "proteins": 10,
+    "carbohydrates": 3.2,
+    "fats": 0,
+    "title": "Соєвий соус",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "326cfc87-c937-4d3e-98cb-6833fc9d4e11",
+    "proteins": 21,
+    "carbohydrates": 2.34,
+    "fats": 30,
+    "title": "Сир ДорБлю Kaserei",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "32b52b4a-cbe4-4491-8355-32c1df189645",
+    "proteins": 2.5,
+    "carbohydrates": 4.4,
+    "fats": 0.4,
+    "title": "Овочі bonduelle 4 сезона",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "3307605e-76d9-4837-94a1-d7c23c223f05",
+    "proteins": 14.782125,
+    "carbohydrates": 8.490338,
+    "fats": 9.123188,
+    "title": "Запіканка творожні з родзинками",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "338bfc13-6c02-4014-a494-e9df7faefccc",
+    "proteins": 0.9,
+    "carbohydrates": 7.3,
+    "fats": 0.1,
+    "title": "Грейпфрут",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "33948087-13dd-4542-8dae-28ccdc48f492",
+    "proteins": 0.5,
+    "carbohydrates": 70.9,
+    "fats": 2,
+    "title": "Spahettini сырые",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "349d257c-0608-4c2d-95af-13740daa778e",
+    "proteins": 3,
+    "carbohydrates": 19,
+    "fats": 6,
+    "title": "Картопля смажена для жаркого",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "34c5f612-2f4c-4fe2-9591-c0cee6a086fb",
+    "proteins": 12.19,
+    "carbohydrates": 2.83,
+    "fats": 8.85,
+    "title": "Печінка куряча в сметані",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "358783ce-df60-430f-aaab-19aa00827530",
+    "proteins": 5.5,
+    "carbohydrates": 46.01,
+    "fats": 13.45,
+    "title": "Кулічі Оля",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "35f2c8d0-bdc4-4820-b6af-02f77b8b95df",
+    "proteins": 0.4,
+    "carbohydrates": 10.7,
+    "fats": 0.1,
+    "title": "Груша",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "369e7a31-e1ac-4174-ba14-8124f122a947",
+    "proteins": 18,
+    "carbohydrates": 0,
+    "fats": 0.3,
+    "title": "Кальмар",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "3702087c-6d5b-4bed-a758-c9a7aff45065",
+    "proteins": 7.9,
+    "carbohydrates": 55.5,
+    "fats": 9.4,
+    "title": "Булочка сдобна",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "375065d9-fc2e-4269-9444-61d42f7402e2",
+    "proteins": 2.26,
+    "carbohydrates": 6.65,
+    "fats": 7.02,
+    "title": "Овочі тушковані в сметані",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "37c67b75-d62a-4747-a29a-7fc493df330f",
+    "proteins": 5,
+    "carbohydrates": 5,
+    "fats": 7,
+    "title": "Капуста тушкована",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "38f537a5-b577-48cf-8e20-4e202ba98ea3",
+    "proteins": 3,
+    "carbohydrates": 68.5,
+    "fats": 0.5,
+    "title": "Персики сушені",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "39e4303a-2727-4bac-9d62-4220272efc66",
+    "proteins": 11,
+    "carbohydrates": 0.2,
+    "fats": 1.5,
+    "title": "Simmenthal тушенка",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "39f6e7b7-b851-41ea-9f2b-e6f393fa1149",
+    "proteins": 3.2,
+    "carbohydrates": 68,
+    "fats": 0.5,
+    "title": "Яблука сушені",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "3aeb9464-c21c-4ae4-9989-d251c4031625",
+    "proteins": 13.07,
+    "carbohydrates": 5.1,
+    "fats": 10.74,
+    "title": "Запіканка з чорницею",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "3bdc7258-09ab-45f9-83e7-1c49080d5b36",
+    "proteins": 1.8,
+    "carbohydrates": 6.1,
+    "fats": 0.1,
+    "title": "Капуста червонокачана",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "3c49c41b-046c-4445-8221-39afac78c295",
+    "proteins": 15.19,
+    "carbohydrates": 12.43,
+    "fats": 8.01,
+    "title": "Сирники з цукром",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "3dd2c39e-960a-4cff-9737-407d7685f8b8",
+    "proteins": 8.1,
+    "carbohydrates": 71.6,
+    "fats": 9.8,
+    "title": "Yarych Марія висівки",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "3f0cc829-4cc9-4d4e-8dbe-ab5d380345ce",
+    "proteins": 9.4,
+    "carbohydrates": 18.68,
+    "fats": 7.77,
+    "title": "Picollini Barilla с тушенкой и сыром",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "408b9e82-c9b7-4abf-81a8-41deacd2c3ff",
+    "proteins": 2,
+    "carbohydrates": 2.5,
+    "fats": 28,
+    "title": "Ковбаса сирого дозрівання",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "408f5e0d-8a25-4840-8790-fff677f0c57d",
+    "proteins": 4.37,
+    "carbohydrates": 2.84,
+    "fats": 2.36,
+    "title": "Шурпа",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "40d9a414-1e1e-4b14-a5e9-ef97a4f4fa72",
+    "proteins": 8.47,
+    "carbohydrates": 18,
+    "fats": 8.56,
+    "title": "Плов",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "414309b6-3700-4b74-a5cb-5b9fff5c867c",
+    "proteins": 13,
+    "carbohydrates": 30,
+    "fats": 9,
+    "title": "Гамбургер",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "41cd00a2-ac8d-4d64-b4bf-a3e4ab8025af",
+    "proteins": 8.2375,
+    "carbohydrates": 48,
+    "fats": 23.26875,
+    "title": "Гусячі лапки",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "42b44c93-2ec3-4a24-a26c-75dbc794711d",
+    "proteins": 17,
+    "carbohydrates": 0,
+    "fats": 6.1,
+    "title": "Стерлядь",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "43103b78-4ca8-4119-b05f-6bcb6e92f6c2",
+    "proteins": 26,
+    "carbohydrates": 0,
+    "fats": 15,
+    "title": "Говядина",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "43b799b3-cac4-431d-bc5e-9f467643a63f",
+    "proteins": 16.6,
+    "carbohydrates": 0,
+    "fats": 2.2,
+    "title": "Хек",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "44861dff-19ce-475b-a7a2-90adcb8f27e8",
+    "proteins": 3.33,
+    "carbohydrates": 13.91,
+    "fats": 1.73,
+    "title": "Оладки з кабачків",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "448620ef-17d7-4e66-a0f1-2418fe44df01",
+    "proteins": 28.9,
+    "carbohydrates": 0,
+    "fats": 9.7,
+    "title": "Осетрова зерниста ікра",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "45a08eb2-5607-43a0-8acc-9cba3b7145c5",
+    "proteins": 5.15,
+    "carbohydrates": 28.16,
+    "fats": 12.8,
+    "title": "Пиріг з грушею",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "47b1ddd4-0012-40ab-ae1c-b8c9926f4092",
+    "proteins": 27,
+    "carbohydrates": 12,
+    "fats": 48,
+    "title": "Peanut butter",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "47ecadaf-3dbf-4f01-86e8-9d97826a05f8",
+    "proteins": 13.6,
+    "carbohydrates": 0,
+    "fats": 12.1,
+    "title": "Говяжий язик",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "48d1b98d-85ed-4021-a474-c6119c1345c1",
+    "proteins": 18.5,
+    "carbohydrates": 0,
+    "fats": 5,
+    "title": "Ставрида",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "4947941a-f8e5-4a61-9403-b3d3bff0623b",
+    "proteins": 0,
+    "carbohydrates": 12.3,
+    "fats": 0,
+    "title": "Сік Агуша Яблуко-шиповник",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "49aefe9e-e092-44f8-aa09-72dedba1aeb6",
+    "proteins": 12.4,
+    "carbohydrates": 2.42,
+    "fats": 11.4,
+    "title": "Мʼясна начинка для млинців",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "49f87a76-5eff-4ecd-8b88-d63becc96fea",
+    "proteins": 13,
+    "carbohydrates": 1.1,
+    "fats": 11,
+    "title": "Яйце",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "4a4c11cf-9e8b-4ec9-999e-1aacb2a97e54",
+    "proteins": 5.2,
+    "carbohydrates": 65.9,
+    "fats": 0.5,
+    "title": "Курага",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "4abe275f-3a04-4e94-8a41-592eef989d70",
+    "proteins": 13.27,
+    "carbohydrates": 6.78,
+    "fats": 21.81,
+    "title": "Котлети з батоном",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "4ac1a842-3f90-4dbd-bab7-7d1500ae7363",
+    "proteins": 0.3,
+    "carbohydrates": 8.7,
+    "fats": 0.4,
+    "title": "Смородина біла",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "4b5f3266-4bd1-4e49-913a-847783b7de87",
+    "proteins": 0.5,
+    "carbohydrates": 0,
+    "fats": 15,
+    "title": "Оливки зелені",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "4b868f86-dbaa-426d-b5f5-1a279fe92666",
+    "proteins": 19.7,
+    "carbohydrates": 0,
+    "fats": 1.2,
+    "title": "Телятина",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "4d1ae6ba-b8ac-4c9d-aaaf-fe5472ee0515",
+    "proteins": 0.6,
+    "carbohydrates": 8,
+    "fats": 0.2,
+    "title": "Кавун",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "4efa19a6-e705-4a0c-9e6e-47707ddf1525",
+    "proteins": 20.4,
+    "carbohydrates": 0.73,
+    "fats": 5.9,
+    "title": "Печінка куряча",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "4f703052-1d84-4a1f-a361-a7ba483bf11e",
+    "proteins": 4.01,
+    "carbohydrates": 3.95,
+    "fats": 5.69,
+    "title": "Рецепт Капуста тушована",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "4fa6be63-af79-44ee-801f-900449f4844c",
+    "proteins": 5.1894736,
+    "carbohydrates": 4.1526318,
+    "fats": 2.768421,
+    "title": "Салат овочевий",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "4feb1ae2-a010-4979-8a04-fb420ab29b69",
+    "proteins": 6.25,
+    "carbohydrates": 21.07,
+    "fats": 6.85,
+    "title": "Млинці рецепт",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "503beef5-4894-4fc0-8021-b1397f5cb59f",
+    "proteins": 1.3,
+    "carbohydrates": 8,
+    "fats": 0.3,
+    "title": "Гарбуз",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "50a2f126-e03a-4845-8fc1-0702fc4bb812",
+    "proteins": 18.8,
+    "carbohydrates": 0,
+    "fats": 0.7,
+    "title": "Щука",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "5112352c-5e7d-4c67-85bf-6df6ce0f6b79",
+    "proteins": 6.84,
+    "carbohydrates": 3.72,
+    "fats": 8.53,
+    "title": "Омлет",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "51cc34f9-fb08-4d32-abf9-c52d1f8661c7",
+    "proteins": 0.66,
+    "carbohydrates": 8.95,
+    "fats": 0.2,
+    "title": "Морква з яблуками",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "52e3f355-412b-47cd-9ac8-08182424c72d",
+    "proteins": 10.33,
+    "carbohydrates": 17.98,
+    "fats": 15.25,
+    "title": "Бельгійські вафлі з творогом",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "52f54865-64b5-4275-b2e5-5eae418768a5",
+    "proteins": 11.15,
+    "carbohydrates": 2.26,
+    "fats": 10.49,
+    "title": "Запаска для жаркого",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "5346ba76-2b96-47d6-b832-f37fdecf7e7c",
+    "proteins": 3.6,
+    "carbohydrates": 17,
+    "fats": 12,
+    "title": "Помідори сушені з журавлиною",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "536cf1ae-3cf2-41c6-aa3a-4e9542691eff",
+    "proteins": 9,
+    "carbohydrates": 56,
+    "fats": 6,
+    "title": "Коржі бісквітні",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "538199cc-58ff-4e07-b848-12628f873e02",
+    "proteins": 4.45,
+    "carbohydrates": 28.64,
+    "fats": 14.49,
+    "title": "Торт бісквітний",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "53bb4784-8c99-4955-83f0-19cb817317b9",
+    "proteins": 16,
+    "carbohydrates": 0,
+    "fats": 0.5,
+    "title": "Краб",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "5435a32d-c5fe-48f9-9f3f-233c0da3f3b0",
+    "proteins": 3,
+    "carbohydrates": 18,
+    "fats": 0.24,
+    "title": "Бульгур варений",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "551def1f-322a-4b1b-95aa-fe077ce86dd2",
+    "proteins": 12.17,
+    "carbohydrates": 9.06,
+    "fats": 16.14,
+    "title": "Львівський сирник",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "5574f717-494f-4aac-ba96-30036d59051d",
+    "proteins": 0,
+    "carbohydrates": 100,
+    "fats": 0,
+    "title": "Глюкоза",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "56956d82-7c5a-41d1-9d34-b9cf9904090f",
+    "proteins": 3.6727273,
+    "carbohydrates": 22.290909,
+    "fats": 0.6909091,
+    "title": "Булгур варений",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "56ebaed2-6d63-48df-af25-47c41ebf7f22",
+    "proteins": 16,
+    "carbohydrates": 57,
+    "fats": 2.5,
+    "title": "Каша пшенична суха",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "5739ebb5-0871-465d-a431-8cf8c9039a54",
+    "proteins": 3.41,
+    "carbohydrates": 4.34,
+    "fats": 6.45,
+    "title": "Гарбузи в духовці з помідорами і сиром",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "573ae42d-7f9e-4803-a674-b2efec1c5462",
+    "proteins": 5.46,
+    "carbohydrates": 37.25,
+    "fats": 8.41,
+    "title": "Торт бісквітний новий",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "57423dbe-c592-4170-a264-8dcc574f1131",
+    "proteins": 1.5,
+    "carbohydrates": 22.4,
+    "fats": 0.3,
+    "title": "Банани",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "58adcd5c-af3e-4b82-9112-89329a9e52a7",
+    "proteins": 9.6,
+    "carbohydrates": 28.2,
+    "fats": 2.5,
+    "title": "Пельмені vici з яловичиною сирі",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "599e70c1-d96f-4b15-858b-84b5101d07b2",
+    "proteins": 21,
+    "carbohydrates": 0,
+    "fats": 7,
+    "title": "Горбуша",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "5a705128-cdb9-4df2-8246-99dc5ddce918",
+    "proteins": 26.8,
+    "carbohydrates": 0,
+    "fats": 27.3,
+    "title": "Сир голландський",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "5a84b593-cb04-4279-b9f3-7921cf796d6a",
+    "proteins": 0.4,
+    "carbohydrates": 17.5,
+    "fats": 0.4,
+    "title": "Виноград",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "5ad015e9-6a22-4b3e-8e5e-3bc17df99683",
+    "proteins": 14.19,
+    "carbohydrates": 37.34,
+    "fats": 32.16,
+    "title": "Мигдальне печиво домашнє",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "5ad24a92-dd64-4faa-9b48-f63961b82e5d",
+    "proteins": 11.9,
+    "carbohydrates": 0.6,
+    "fats": 13.1,
+    "title": "Яйце перепелине",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "5b15bb03-8966-4a32-b677-96d7ac36e37a",
+    "proteins": 1.2,
+    "carbohydrates": 4.1,
+    "fats": 0.1,
+    "title": "Редис",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "5b6ca17f-3545-4f17-948e-249a040920dc",
+    "proteins": 9.4,
+    "carbohydrates": 44.25,
+    "fats": 4.26,
+    "title": "Галин хліб",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "5bbdcfbc-fa7b-4e93-abd1-949cb836398d",
+    "proteins": 0.1,
+    "carbohydrates": 11.6,
+    "fats": 0,
+    "title": "Сік Galicia Яблуко-груша",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "5c0e562e-8e14-44a3-b8db-cde7ebec03b9",
+    "proteins": 2.3,
+    "carbohydrates": 65.6,
+    "fats": 0.4,
+    "title": "Слива сушена",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "5c57c988-6c60-4eab-84a2-9097fb03290e",
+    "proteins": 4.6,
+    "carbohydrates": 20.4,
+    "fats": 13.5,
+    "title": "Морозиво Три Ведмеді фісташкове",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "5cc6be62-8d22-4f53-9eb4-7cd0e5f01847",
+    "proteins": 4.41,
+    "carbohydrates": 5.86,
+    "fats": 2.2,
+    "title": "Овочеве рагу в духовці",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "5cd89f72-a725-4939-b308-f94937efefe8",
+    "proteins": 4,
+    "carbohydrates": 5.3,
+    "fats": 35,
+    "title": "Mascarpone",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "5d098eb9-1193-4650-9652-c10fec9e1995",
+    "proteins": 2,
+    "carbohydrates": 54.89,
+    "fats": 15.11,
+    "title": "Бісквітний рулет з лимонним курдом",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "5d10aa63-08ed-4f48-990a-45a6f5c09b47",
+    "proteins": 25.3,
+    "carbohydrates": 2.34,
+    "fats": 29,
+    "title": "Сир ДорБлю Grand Noir",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "5d91fa16-349d-4993-b834-0c2aed4049a9",
+    "proteins": 4.9,
+    "carbohydrates": 45.7,
+    "fats": 26.3,
+    "title": "Kinder pengui карамель",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "5dc3d37c-26db-44bc-9a76-6682b1f6d265",
+    "proteins": 9.71,
+    "carbohydrates": 21.28,
+    "fats": 8.45,
+    "title": "Пельмені Балувана Галя варені",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "5e33956b-31d6-4362-91ac-845e133ee8aa",
+    "proteins": 2.8165355,
+    "carbohydrates": 12.097638,
+    "fats": 2.2653544,
+    "title": "Каша кабакова",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "5e47c9e5-6137-488b-a9ef-921f245d3135",
+    "proteins": 3.7,
+    "carbohydrates": 8.1,
+    "fats": 0.1,
+    "title": "Петрушка (зелень)",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "5e6d5575-4709-463e-a75c-10f29e57fe93",
+    "proteins": 5,
+    "carbohydrates": 67.5,
+    "fats": 0.5,
+    "title": "Урюк",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "5f316a7a-7934-47e2-80ab-43a8587e38c6",
+    "proteins": 24.4,
+    "carbohydrates": 0,
+    "fats": 30.2,
+    "title": "Сир Королівський",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "5f450663-71ff-4804-a90e-57ab957b617a",
+    "proteins": 5.438153,
+    "carbohydrates": 23.753414,
+    "fats": 5.5421686,
+    "title": "Галета з полуницею",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "5f48b1d9-9cfa-4699-a07e-24b4840285a0",
+    "proteins": 0.5,
+    "carbohydrates": 80.4,
+    "fats": 0,
+    "title": "Пастила",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "5f5f4baa-57f6-40d9-a7b3-a1b78f6c5680",
+    "proteins": 3.8111112,
+    "carbohydrates": 10.288889,
+    "fats": 3.488889,
+    "title": "Вівсяна каша молочна",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "5f787d6e-9cda-4bc8-b9f5-5ea13b3ba14b",
+    "proteins": 4,
+    "carbohydrates": 16.4,
+    "fats": 0,
+    "title": "Томатна паста Чумак 25%",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "5f79dbaa-7259-4be6-8c3f-fdc8861ea96a",
+    "proteins": 17.29,
+    "carbohydrates": 20.73,
+    "fats": 10.8,
+    "title": "Сирні палички",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "5fd3b5ea-d394-422a-bda9-17ce46e24b97",
+    "proteins": 14.27,
+    "carbohydrates": 7.05,
+    "fats": 10.58,
+    "title": "Канелони з сиром",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "605fb78f-2072-4d5f-a63d-d53d7104a596",
+    "proteins": 1,
+    "carbohydrates": 4.6,
+    "fats": 0.2,
+    "title": "Перець болгарський зелений",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "619b538d-6a8e-4c07-9589-fff1f279b8eb",
+    "proteins": 18.9,
+    "carbohydrates": 0,
+    "fats": 3,
+    "title": "Палтус",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "61b442c1-e706-4071-b4ca-914f1818f2a9",
+    "proteins": 17.7,
+    "carbohydrates": 0,
+    "fats": 1.8,
+    "title": "Карась",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "62164f5c-dd30-4490-8a23-81359cf744cb",
+    "proteins": 20.8,
+    "carbohydrates": 0.6,
+    "fats": 8.8,
+    "title": "Мʼясо курки(філе)",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "63858799-8a5c-4898-b81f-0903beabb886",
+    "proteins": 2.6,
+    "carbohydrates": 3.4,
+    "fats": 1.8,
+    "title": "Борщ",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "639312a0-f027-4853-bbc0-c6338d2a2990",
+    "proteins": 7.9,
+    "carbohydrates": 2.9,
+    "fats": 7.1,
+    "title": "Омлет з молоком",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "63e7c7f2-55b4-425b-991e-26b23081cec3",
+    "proteins": 1.5,
+    "carbohydrates": 2.2,
+    "fats": 0.1,
+    "title": "Листя салату",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "643158e2-ffc0-4401-ba27-e98fab96b872",
+    "proteins": 8.01,
+    "carbohydrates": 48.64,
+    "fats": 1.54,
+    "title": "Хліб сабіа",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "65914b4c-9f77-4bed-bc6e-e85f4bacaec5",
+    "proteins": 0,
+    "carbohydrates": 93,
+    "fats": 0,
+    "title": "Загущувач для вершків",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "67880d4c-d1a0-46c9-b42b-438615ac4225",
+    "proteins": 2.8,
+    "carbohydrates": 4.1,
+    "fats": 3.2,
+    "title": "Простокваша",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "67a82d0a-fd97-49aa-985d-269ebabb0937",
+    "proteins": 8.1,
+    "carbohydrates": 59.9,
+    "fats": 23.5,
+    "title": "Snickers с фундуком",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "67d75264-1dcc-4048-a2bb-7a9a040c6297",
+    "proteins": 2.8,
+    "carbohydrates": 3.6,
+    "fats": 20,
+    "title": "Збиті вершки 20%",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "67faaf95-f44a-47a1-84fa-3a5a90364a13",
+    "proteins": 0.5,
+    "carbohydrates": 0.8,
+    "fats": 82.5,
+    "title": "Масло Наш Молочник 82.5%",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "67fda86b-e9fa-42bd-91c2-b6550f30b2cb",
+    "proteins": 0.7,
+    "carbohydrates": 9.9,
+    "fats": 0.2,
+    "title": "Аґрус",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "680145d8-d57a-4cfb-a975-497de6775bcd",
+    "proteins": 12.2,
+    "carbohydrates": 41.4,
+    "fats": 0.96,
+    "title": "Хліб здоровʼя \"просто добрий",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "686c09f5-a3df-42be-affa-4f844f233108",
+    "proteins": 7.9,
+    "carbohydrates": 34,
+    "fats": 27.9,
+    "title": "Kinder milk slice",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "6927e1a1-9362-4adf-9159-0040805b1700",
+    "proteins": 0,
+    "carbohydrates": 100,
+    "fats": 0,
+    "title": "Цукор",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "6949696c-e183-467e-8f78-cddf6ce27b1d",
+    "proteins": 8.78,
+    "carbohydrates": 11.83,
+    "fats": 4.92,
+    "title": "Ризотто",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "69c34d04-604c-46ab-a221-a37f9e508b94",
+    "proteins": 7.1,
+    "carbohydrates": 10.9,
+    "fats": 11.54,
+    "title": "Голубці Галя Балувана",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "6a6acf5f-b3f6-4497-8e0a-b33488ce644b",
+    "proteins": 21.6,
+    "carbohydrates": 0.8,
+    "fats": 12,
+    "title": "Індичка",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "6ae9d20a-bbe3-4e28-af36-77af2753f04e",
+    "proteins": 16.3,
+    "carbohydrates": 0,
+    "fats": 15.3,
+    "title": "Баранина",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "6c0fbc91-a61e-4486-9116-79d438aad9c7",
+    "proteins": 0.7,
+    "carbohydrates": 13.9,
+    "fats": 0.1,
+    "title": "Інжир",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "6c102d77-5206-4a41-94d0-57e26426bb95",
+    "proteins": 0,
+    "carbohydrates": 0,
+    "fats": 0,
+    "title": "Хінкалі",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "6ce96215-c8af-4bef-a3ef-afd740ca9d2d",
+    "proteins": 5,
+    "carbohydrates": 21,
+    "fats": 3,
+    "title": "Оладки з яблуком",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "6da8f919-c9fd-47e6-807d-8b83247ce59c",
+    "proteins": 28,
+    "carbohydrates": 3.1,
+    "fats": 17,
+    "title": "Сир моцарелла",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "6ddecf04-00a9-49af-9a08-f0aefc57e0e0",
+    "proteins": 20.8,
+    "carbohydrates": 0,
+    "fats": 15.1,
+    "title": "Лосось",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "6dee2307-c62e-46bc-a59a-e905f5a93604",
+    "proteins": 16.5,
+    "carbohydrates": 0,
+    "fats": 61.2,
+    "title": "Качки",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "6dffff6e-faa6-490e-b983-2a71c6568c51",
+    "proteins": 1.56,
+    "carbohydrates": 2.48,
+    "fats": 4.16,
+    "title": "Суп-пюре bonduelle бежевий",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "6e6ab052-ce71-466e-9df5-e133414bf142",
+    "proteins": 0.6,
+    "carbohydrates": 4.2,
+    "fats": 0.1,
+    "title": "Помідор",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "6edf0419-62b2-4947-a6bd-33816de6140b",
+    "proteins": 20,
+    "carbohydrates": 0.5,
+    "fats": 22,
+    "title": "Camembert de Campagne",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "6f75fec1-7352-4839-9c35-4185cd390f3d",
+    "proteins": 14.2,
+    "carbohydrates": 0,
+    "fats": 16.8,
+    "title": "Язик свинячий",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "6f84f5ea-0624-4adc-a0a7-c3c40596f388",
+    "proteins": 8.8,
+    "carbohydrates": 56.9,
+    "fats": 3.7,
+    "title": "Хліб зерновий",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "6fb8448c-9895-4213-a6a5-2b8a794a2209",
+    "proteins": 12.95,
+    "carbohydrates": 28.37,
+    "fats": 11.27,
+    "title": "Пельмені Балувана Галя",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "700ae58e-3acd-444e-bfe6-31a87c6f9075",
+    "proteins": 1,
+    "carbohydrates": 7.7,
+    "fats": 0.3,
+    "title": "Голубика",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "703bd363-19c3-468f-97a9-2653b07ac42f",
+    "proteins": 13.49,
+    "carbohydrates": 5.96,
+    "fats": 23.18,
+    "title": "Котлети з батоном Оля",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "70653142-769c-4c7d-8f25-733a74fc5eff",
+    "proteins": 4.45,
+    "carbohydrates": 18.49,
+    "fats": 2.42,
+    "title": "Млинці на білому борошні зі стевією",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "71ad831b-f5fd-413b-9593-7745e0a22030",
+    "proteins": 10,
+    "carbohydrates": 25,
+    "fats": 11,
+    "title": "Попкорн солоний",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "71b80fce-0588-4c55-b1e1-47dd58c0786e",
+    "proteins": 2.8,
+    "carbohydrates": 4.7,
+    "fats": 3.2,
+    "title": "Молоко Селянське Ультрапастеризоване",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "7264329c-c21c-474d-9f57-456104c1ccf1",
+    "proteins": 1.15,
+    "carbohydrates": 1.82,
+    "fats": 6.15,
+    "title": "Крем-суп bonduelle зелений",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "7273ff7b-2437-4975-8c69-1569aabbf296",
+    "proteins": 1.5,
+    "carbohydrates": 73,
+    "fats": 0.5,
+    "title": "Вишня сушена",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "728c4c2d-a5f4-40e2-bdfb-c5108ad44d8b",
+    "proteins": 11,
+    "carbohydrates": 6,
+    "fats": 15,
+    "title": "Cир кремовий плавлений",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "7315f8e5-a6a9-442a-b271-d7df66354092",
+    "proteins": 2,
+    "carbohydrates": 16,
+    "fats": 0.4,
+    "title": "Картопля сирова",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "7362ffec-54fb-45d3-ae43-de05b46a54e1",
+    "proteins": 0.4,
+    "carbohydrates": 11.8,
+    "fats": 0.1,
+    "title": "Ананаси",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "749b2c72-ed8e-4f89-933b-9167b473766d",
+    "proteins": 6.4,
+    "carbohydrates": 22.5,
+    "fats": 3.71,
+    "title": "Оладки з ізюмом",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "74a16eb1-3314-4351-ad75-cfd9c8acf2c7",
+    "proteins": 0.4,
+    "carbohydrates": 68,
+    "fats": 0.3,
+    "title": "Варенье",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "7510a224-91b0-4bde-a176-1fec22b96bf2",
+    "proteins": 13,
+    "carbohydrates": 0,
+    "fats": 42,
+    "title": "Бекон",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "75383b36-feba-44d9-bba9-44b1123843bc",
+    "proteins": 6,
+    "carbohydrates": 8.3,
+    "fats": 0.1,
+    "title": "Боби",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "7551719b-c054-43eb-81a4-a35b18c1d56a",
+    "proteins": 6.26,
+    "carbohydrates": 51.68,
+    "fats": 21.64,
+    "title": "Домашнє печиво",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "756b146c-183b-46d4-a3d9-40e68f1f9c8e",
+    "proteins": 6.889902,
+    "carbohydrates": 5.5504885,
+    "fats": 13.099348,
+    "title": "Авакадо намазка",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "756b688e-6f78-4a9e-801d-c2e0efe7a8ef",
+    "proteins": 0,
+    "carbohydrates": 9.09,
+    "fats": 0,
+    "title": "Лимонад з цукром",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "7641cac8-2ff6-44a3-b5bb-f15bfa281732",
+    "proteins": 26,
+    "carbohydrates": 0,
+    "fats": 27,
+    "title": "Сир Morski",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "7644921f-7896-4fa9-ad13-605b916935b8",
+    "proteins": 0.4,
+    "carbohydrates": 11.3,
+    "fats": 0.2,
+    "title": "Яблука",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "7b3ad788-4762-46cc-aa33-c3a2955deebc",
+    "proteins": 5.22,
+    "carbohydrates": 4.37,
+    "fats": 10.99,
+    "title": "Підливка бефстроганов(рецепт)",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "7b557e76-dd5e-4e00-87d5-ceb733b6e24e",
+    "proteins": 27,
+    "carbohydrates": 0,
+    "fats": 4,
+    "title": "Філе індика",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "7c0abe11-8b59-4a8b-9b50-1076d3e55744",
+    "proteins": 4.5,
+    "carbohydrates": 4,
+    "fats": 41,
+    "title": "Сир маскарпоне",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "7c5b6c42-12f5-42c9-8f0f-85a8b1ad93c0",
+    "proteins": 14.13,
+    "carbohydrates": 8.36,
+    "fats": 14.48,
+    "title": "Творожна начинка для млинців",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "7daa5b7a-8086-4620-90a9-b2c4c04126d0",
+    "proteins": 7.4,
+    "carbohydrates": 54.5,
+    "fats": 1.09,
+    "title": "Хліб бездріжджовий \"просто добрий",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "7df796d2-20ff-4c9a-9793-4d13845a7b5f",
+    "proteins": 27.5,
+    "carbohydrates": 0,
+    "fats": 21.2,
+    "title": "Сир Комо Тенеро",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "7df8c11d-07df-44ab-980a-22abd6b0d3a6",
+    "proteins": 8,
+    "carbohydrates": 13,
+    "fats": 15,
+    "title": "Бендерики",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "7e47b482-53b7-4cb1-8efe-824a51e0d90b",
+    "proteins": 12,
+    "carbohydrates": 72,
+    "fats": 1,
+    "title": "Борошно la pasta з твердих сортів",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "7e7fb28a-3dbe-4605-bc65-9d58dcfc042d",
+    "proteins": 7.5,
+    "carbohydrates": 10.5,
+    "fats": 3.9,
+    "title": "Агуша абрикос морква",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "7f19ee49-ea33-46b7-a069-b5b01579dcfe",
+    "proteins": 12.95,
+    "carbohydrates": 3.59,
+    "fats": 12.16,
+    "title": "Творожна запіканка з малиною",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "7f77e6d4-72ad-42cb-acaf-309d3737ffd9",
+    "proteins": 4.2,
+    "carbohydrates": 0,
+    "fats": 65.7,
+    "title": "Печінка тріски",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "7ff6c1fe-6573-44d4-ab38-7f4c09e9de52",
+    "proteins": 11.6,
+    "carbohydrates": 54,
+    "fats": 29.7,
+    "title": "Соняшникова халва",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "80d46620-e866-435f-acf9-86287ab958b0",
+    "proteins": 18.7,
+    "carbohydrates": 0,
+    "fats": 2.9,
+    "title": "Бараняча Печінка",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "814297ac-6934-42b4-b0ac-f275032c677d",
+    "proteins": 0.7,
+    "carbohydrates": 12.7,
+    "fats": 0.4,
+    "title": "Шовковиця",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "82b185ce-0c90-499d-a5a7-3c7e85e03ddd",
+    "proteins": 10.6,
+    "carbohydrates": 60.4,
+    "fats": 14.9,
+    "title": "Печиво Марія цілезернове",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "8329dcf5-e54f-4255-8a0c-d32983202e4d",
+    "proteins": 26,
+    "carbohydrates": 0,
+    "fats": 26.5,
+    "title": "Сир пошехонський",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "840a11a7-0459-4b9e-aa7d-7fc74b703901",
+    "proteins": 9.66,
+    "carbohydrates": 15.35,
+    "fats": 39.37,
+    "title": "Мигдальні кекси",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "841a49ae-d34d-428e-b5e4-40c3d98cc8e1",
+    "proteins": 8.4,
+    "carbohydrates": 39,
+    "fats": 41,
+    "title": "Rittersport черный с орехом",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "84526311-92e5-4757-bc02-720b3bcc12be",
+    "proteins": 9.5,
+    "carbohydrates": 0,
+    "fats": 9.5,
+    "title": "Говяжі мозки",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "8463ca9f-e052-4ad9-9edc-b5aeb9b61c8a",
+    "proteins": 7.6,
+    "carbohydrates": 76.9,
+    "fats": 2.9,
+    "title": "Рис червоний",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "849cf887-0f21-448f-813f-78de0984a23e",
+    "proteins": 5,
+    "carbohydrates": 4,
+    "fats": 18,
+    "title": "Підлива бефстроганов",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "853c9fbf-8e9f-402d-be61-d7b90d65a93c",
+    "proteins": 6,
+    "carbohydrates": 86,
+    "fats": 1.2,
+    "title": "Пластівці Старт",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "85e93e3c-ec8d-40bf-9390-ce1eec5a3ad7",
+    "proteins": 1.7,
+    "carbohydrates": 1.4,
+    "fats": 0.3,
+    "title": "Гриби Сироїжки свіжі",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "867f184d-d249-4264-9bcc-caee9b41b18b",
+    "proteins": 1.7,
+    "carbohydrates": 15,
+    "fats": 2.8,
+    "title": "Картопляне пюре",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "86aa0ff4-3f7c-46e4-93ff-ca2c3d77b665",
+    "proteins": 0.6,
+    "carbohydrates": 8,
+    "fats": 0.4,
+    "title": "Смородина червона",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "875bae8f-991f-4c15-80f9-3a103a062f22",
+    "proteins": 5.66,
+    "carbohydrates": 29.48,
+    "fats": 15.19,
+    "title": "Бельгійські вафлі",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "88743df9-4a81-4bb8-99a3-017cfb2681da",
+    "proteins": 6.482836,
+    "carbohydrates": 39.22985,
+    "fats": 24.47612,
+    "title": "Кекс лимонний домашній",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "887c9bf2-8310-4511-9e8e-a560d06a79e6",
+    "proteins": 16.8,
+    "carbohydrates": 0,
+    "fats": 8.5,
+    "title": "Сом",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "894e28c4-d884-4b23-ab7c-ef7cc1c3719a",
+    "proteins": 19,
+    "carbohydrates": 0,
+    "fats": 20,
+    "title": "Camembert President",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "89cc7292-cf61-41f9-ad30-3e2392c5e833",
+    "proteins": 0.8,
+    "carbohydrates": 9.9,
+    "fats": 0.3,
+    "title": "Слива садова",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "89d126a5-0965-4755-b544-d2806854e3c7",
+    "proteins": 5.881111,
+    "carbohydrates": 26.576666,
+    "fats": 3.3355556,
+    "title": "Оладки з журавлиною",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "8a1c11d0-84b8-4447-a938-363898285f8b",
+    "proteins": 9.479808,
+    "carbohydrates": 9.888461,
+    "fats": 18.770193,
+    "title": "Запіканка з шоколадом",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "8a819c71-a7fb-437f-855f-34f6dde3f3a3",
+    "proteins": 0.9,
+    "carbohydrates": 3.6,
+    "fats": 0.3,
+    "title": "Лимон",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "8abb5708-7b5d-445d-96c3-f952ac8ea20f",
+    "proteins": 5.68,
+    "carbohydrates": 6.3,
+    "fats": 5.92,
+    "title": "Тушковані овочі в духовці",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "8b2a1b33-c4e7-4139-bc20-34833fff37fa",
+    "proteins": 12,
+    "carbohydrates": 4,
+    "fats": 18,
+    "title": "Запаска для жаркого томат + сметана",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "8b59f074-aa43-4241-8724-0963ae8da266",
+    "proteins": 5.3,
+    "carbohydrates": 68,
+    "fats": 20,
+    "title": "Печиво Орео",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "8b7ab2ba-fd4f-49b8-ab6a-6742f4cd3efd",
+    "proteins": 4,
+    "carbohydrates": 4.3,
+    "fats": 0.1,
+    "title": "Зелена фасоль (стручок)",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "8bb3ac68-383f-4975-900a-c00a124804df",
+    "proteins": 19,
+    "carbohydrates": 0,
+    "fats": 0.8,
+    "title": "Судак",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "8bc5540e-7c9e-45b0-92a7-650c4b39aa50",
+    "proteins": 1.33,
+    "carbohydrates": 25.05,
+    "fats": 1.64,
+    "title": "Tagliolini вареные",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "8c148c11-afe5-4842-a6b2-756e3f348998",
+    "proteins": 19.4,
+    "carbohydrates": 9.1,
+    "fats": 23,
+    "title": "Какао",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "8ca5a424-3a71-4339-b782-51146a067714",
+    "proteins": 10.09,
+    "carbohydrates": 8.69,
+    "fats": 7.82,
+    "title": "Тефтелі",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "8deb3536-5d4d-47e3-a5cc-110fdb9e7a22",
+    "proteins": 12.5,
+    "carbohydrates": 0,
+    "fats": 1.8,
+    "title": "Говяжі нирки",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "90898f76-07c3-4d27-af2d-04e0c836dd5f",
+    "proteins": 17.5,
+    "carbohydrates": 0,
+    "fats": 0.6,
+    "title": "Тріска",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "90bc86c9-1675-48fa-918c-3b838e6fdbf7",
+    "proteins": 1,
+    "carbohydrates": 6,
+    "fats": 0.2,
+    "title": "Перець болгарський жовтий",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "91543827-0201-4387-9f61-6ee8e090761b",
+    "proteins": 3,
+    "carbohydrates": 7.3,
+    "fats": 0.1,
+    "title": "Порей",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "91cb9a83-4937-4647-93b3-42ed65f66fb0",
+    "proteins": 16.4,
+    "carbohydrates": 0,
+    "fats": 10.9,
+    "title": "Осетр",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "923dd85e-a09a-4845-a964-7691b492f682",
+    "proteins": 16.1,
+    "carbohydrates": 0,
+    "fats": 2.6,
+    "title": "Камбала",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "93cd25f8-8708-4cb7-a5de-4c9c01386ae0",
+    "proteins": 8,
+    "carbohydrates": 34,
+    "fats": 3,
+    "title": "Млинці 50/50",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "93d55d53-7d28-4d7b-b886-991648ed5d97",
+    "proteins": 0.1,
+    "carbohydrates": 79.6,
+    "fats": 0,
+    "title": "Крохмаль",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "947af73a-b450-40a6-9d2e-6d8d7bc082c4",
+    "proteins": 8.8,
+    "carbohydrates": 38.04,
+    "fats": 18.85,
+    "title": "Печиво гусині лапки",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "951aed68-b59c-4077-a61f-3f3c0e0cbf3a",
+    "proteins": 6.05,
+    "carbohydrates": 12.93,
+    "fats": 10.26,
+    "title": "Жарке томатне зі сметаною",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "95589f78-004e-4727-bf3d-825b9396ed9d",
+    "proteins": 5.321127,
+    "carbohydrates": 9.565727,
+    "fats": 19.929577,
+    "title": "Пиріг картопля і мʼясо",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "95b10568-d17f-4389-b01b-9ff79b8e71b5",
+    "proteins": 10.3,
+    "carbohydrates": 70,
+    "fats": 1.1,
+    "title": "Борошно пшеничне",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "98661f41-2482-48fa-87de-e30101e7cf29",
+    "proteins": 3.12,
+    "carbohydrates": 12.42,
+    "fats": 2.59,
+    "title": "Кукурудзяна з молоком",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "98cb54df-b2fd-4150-b11d-d4d9ef4c2532",
+    "proteins": 18.7,
+    "carbohydrates": 0.4,
+    "fats": 7.8,
+    "title": "Курчата",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "9affbaf3-bdcf-421f-aae0-bb0983bb2761",
+    "proteins": 0.78,
+    "carbohydrates": 5.55,
+    "fats": 0.11,
+    "title": "Ікра з баклажанів",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "9bcaa460-94c8-4542-864a-b2e084e95caf",
+    "proteins": 23,
+    "carbohydrates": 53.3,
+    "fats": 1.2,
+    "title": "Горох цілий",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "9c0dda25-6b26-45ab-835b-9f9b9e521db4",
+    "proteins": 6.5,
+    "carbohydrates": 21.2,
+    "fats": 0.1,
+    "title": "Часник",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "9c62e834-7cef-4d48-8477-20632bb462ab",
+    "proteins": 11.13,
+    "carbohydrates": 19.61,
+    "fats": 33.32,
+    "title": "Бутерброд (хліб, сало, сир)",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "9cec81d1-a1c9-47fc-9d75-87aec9456c26",
+    "proteins": 16.2,
+    "carbohydrates": 2,
+    "fats": 10,
+    "title": "Творог Простоквашино",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "9d251e4a-6a50-44a5-a925-366630b8395c",
+    "proteins": 18.4,
+    "carbohydrates": 0,
+    "fats": 5.3,
+    "title": "Сазан",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "9d8bdb47-dc0b-4987-9042-9d8f73cbd7c9",
+    "proteins": 2.8,
+    "carbohydrates": 4.1,
+    "fats": 3.2,
+    "title": "Кефір жирний",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "9dbd759e-c223-4823-b1b1-d9b9e29076ad",
+    "proteins": 7.4,
+    "carbohydrates": 50.1,
+    "fats": 0.9,
+    "title": "Хліб литовський",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "9e337f7f-d354-4402-ab73-7d5b5dc8b30d",
+    "proteins": 7.6,
+    "carbohydrates": 78,
+    "fats": 2.8,
+    "title": "Печиво савоярді",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "9e4d56f7-6c01-4934-abec-479478aa3c89",
+    "proteins": 9.6,
+    "carbohydrates": 73.8,
+    "fats": 10.9,
+    "title": "Сушки Київські",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "9f2d02bc-7d78-478a-bf69-bd3e45e54c52",
+    "proteins": 1.3,
+    "carbohydrates": 5.3,
+    "fats": 0.1,
+    "title": "Перець болгарський червоний",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "9f8f5eb6-acb9-4cd5-bbfe-0ae5f84145b8",
+    "proteins": 2.3,
+    "carbohydrates": 3.7,
+    "fats": 0.9,
+    "title": "Гриби Підберезовики свіжі",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "9fe152bf-9298-4ad3-9fcb-5ff5284cf86f",
+    "proteins": 7.48,
+    "carbohydrates": 37.2,
+    "fats": 23.87,
+    "title": "Кекс домашній з цукром",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "a082110d-88af-4e8d-bb3e-15b9eeabde0b",
+    "proteins": 3.2,
+    "carbohydrates": 1.6,
+    "fats": 0.7,
+    "title": "Гриби Білі свіжі",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "a1000324-745d-4ccc-a546-2e051a04c1b7",
+    "proteins": 11.2,
+    "carbohydrates": 80.7,
+    "fats": 1.4,
+    "title": "Сухарі домашні",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "a201d15e-8846-4ffd-9d02-3ebaf2f56606",
+    "proteins": 1.5,
+    "carbohydrates": 3,
+    "fats": 76,
+    "title": "Майонез",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "a2462cb2-e46f-43e3-bcbd-f5dbf86d5e26",
+    "proteins": 4.65,
+    "carbohydrates": 23.04,
+    "fats": 2.18,
+    "title": "Гречка варена old",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "a2dfd940-c647-4a8d-9dc8-b71d6a52f1a2",
+    "proteins": 0.8,
+    "carbohydrates": 8,
+    "fats": 0.2,
+    "title": "Диня",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "a36df772-41d0-40da-9547-f838d478deb5",
+    "proteins": 1.3,
+    "carbohydrates": 4.9,
+    "fats": 0.1,
+    "title": "Перець білозірка",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "a39e4f1b-4597-402d-bef4-c565875745e3",
+    "proteins": 6.23,
+    "carbohydrates": 66,
+    "fats": 11.5,
+    "title": "Печиво коржик",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "a3cdf108-eb99-474b-bf47-17daf564423b",
+    "proteins": 9.9,
+    "carbohydrates": 46,
+    "fats": 4.5,
+    "title": "Tost 3 ziarna",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "a48cc08f-e09c-4cf9-b82f-2a4660547ef2",
+    "proteins": 1.1,
+    "carbohydrates": 9,
+    "fats": 0.1,
+    "title": "Цибуля",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "a562ae9d-b29c-4714-9104-e419c97490a0",
+    "proteins": 5.4,
+    "carbohydrates": 52.6,
+    "fats": 35.3,
+    "title": "Шоколад темний",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "a7ae92b7-7953-49a0-abdf-e18930271319",
+    "proteins": 8.3,
+    "carbohydrates": 75,
+    "fats": 1.2,
+    "title": "Кукурудзяна",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "a7d732f7-d01a-45ae-bef4-89d715f6be60",
+    "proteins": 2.95,
+    "carbohydrates": 14.87,
+    "fats": 1.42,
+    "title": "Морквяники",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "a7e424bd-042c-4880-b9e3-af0be86feb06",
+    "proteins": 9.3,
+    "carbohydrates": 29.8,
+    "fats": 6.6,
+    "title": "Пельмені vici з куркою сирі",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "a7eac8fe-e9ed-46f6-ade2-447b542de8bc",
+    "proteins": 3.98,
+    "carbohydrates": 22.89,
+    "fats": 27.96,
+    "title": "Торт Тирамісу домашній",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "a85cf2aa-dfdb-44bd-a368-9e6f30f2c141",
+    "proteins": 1.6,
+    "carbohydrates": 10,
+    "fats": 0.2,
+    "title": "Буряк",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "a943d266-7885-4798-96d8-cdd71b1adc78",
+    "proteins": 1.1,
+    "carbohydrates": 8.6,
+    "fats": 0.6,
+    "title": "Чорниця",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "a9d79d2b-4851-48e8-8ce6-ac15cb5e2002",
+    "proteins": 9.6,
+    "carbohydrates": 73.8,
+    "fats": 10.9,
+    "title": "Бублики сушка",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "a9d7a34c-1489-423d-a4f5-2bb0faeed0f0",
+    "proteins": 2.17,
+    "carbohydrates": 16.53,
+    "fats": 0.65,
+    "title": "Картопля варена",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "aa21dc10-5cc1-470b-9467-b8a6065c3d01",
+    "proteins": 1,
+    "carbohydrates": 11,
+    "fats": 1,
+    "title": "Попкорн",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "aa536c1e-4715-4f8c-81cf-61db174f35f4",
+    "proteins": 0.97,
+    "carbohydrates": 12.8,
+    "fats": 0.3,
+    "title": "Смузі",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "aa9603e6-ad57-4b9a-a23b-ea28e17a9801",
+    "proteins": 3,
+    "carbohydrates": 4.1,
+    "fats": 6,
+    "title": "Ряжанка",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "ab0f3f43-185d-432a-afce-355f16ef905c",
+    "proteins": 2.8,
+    "carbohydrates": 3.2,
+    "fats": 20,
+    "title": "Сметана 20%",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "ab0f78a3-0653-46d5-8161-f26bbf1c75e7",
+    "proteins": 22.3,
+    "carbohydrates": 54.5,
+    "fats": 1.7,
+    "title": "Фасоль",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "ab69d512-e390-4b3e-b7bb-812caedcd2eb",
+    "proteins": 20.7,
+    "carbohydrates": 5,
+    "fats": 52.9,
+    "title": "Соняшникові насіння",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "abaeec5c-4d2c-4bac-bbd3-d06735794802",
+    "proteins": 8.96,
+    "carbohydrates": 1.13,
+    "fats": 6.25,
+    "title": "Перці фаршировані з сиром",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "ac1d9733-416c-43a2-bd66-beb8225dec03",
+    "proteins": 8.99,
+    "carbohydrates": 5.82,
+    "fats": 6.05,
+    "title": "Творожні суфле",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "ac313f93-884a-473d-9f6d-b4092fd781d8",
+    "proteins": 4.64335,
+    "carbohydrates": 15.607915,
+    "fats": 18.899218,
+    "title": "Плов домашній",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "ac4db0a4-ea93-4d40-afba-cafecb03f202",
+    "proteins": 7.9,
+    "carbohydrates": 74.4,
+    "fats": 9.4,
+    "title": "Yarych Марія класична",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "af63e0a0-db6d-44c8-b885-3e0135cf336e",
+    "proteins": 8.2,
+    "carbohydrates": 60.3,
+    "fats": 4.8,
+    "title": "Хліб тостовий",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "af993fbb-df2f-4221-8e4f-bdc5c75afd2e",
+    "proteins": 2.5,
+    "carbohydrates": 72.1,
+    "fats": 0.5,
+    "title": "Фініки",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "b063006d-5bbc-46f0-908b-458f7f0b5453",
+    "proteins": 20,
+    "carbohydrates": 0,
+    "fats": 12,
+    "title": "Бринка болгарська Metro chef",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "b07ed527-806d-4145-81ea-1c052a031573",
+    "proteins": 10,
+    "carbohydrates": 6,
+    "fats": 18,
+    "title": "Favita",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "b16ef6ea-ac42-4b38-9b46-006644fcd447",
+    "proteins": 19.1,
+    "carbohydrates": 0,
+    "fats": 1.9,
+    "title": "Морський вугор",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "b1bd1d0c-c969-4ece-9c51-75cde04b1535",
+    "proteins": 11.4,
+    "carbohydrates": 0,
+    "fats": 49.3,
+    "title": "Свинина жирна",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "b1d1925e-98a7-44a5-ac4b-0f590aa8cb8e",
+    "proteins": 15.078392,
+    "carbohydrates": 13.726633,
+    "fats": 7.915578,
+    "title": "Сирники з ізюмом",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "b25247b1-28c0-4b3a-b452-7fef97d6198a",
+    "proteins": 2.8,
+    "carbohydrates": 4.7,
+    "fats": 3.2,
+    "title": "Молоко",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "b37dbd17-9ddd-48fb-b212-c8f2acbca8aa",
+    "proteins": 0.9,
+    "carbohydrates": 6.8,
+    "fats": 0.2,
+    "title": "Морква",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "b49c8efa-032d-4aa6-9e5a-a49b39044954",
+    "proteins": 1.5,
+    "carbohydrates": 6.1,
+    "fats": 0.2,
+    "title": "Cherry tomatoes metro chef",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "b54cb700-22cb-4849-9189-baecb43885e8",
+    "proteins": 25,
+    "carbohydrates": 1.5,
+    "fats": 27,
+    "title": "Сир Salami з помідорами",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "b5505666-e3c1-4b1e-9142-5eb52763dad2",
+    "proteins": 8.72,
+    "carbohydrates": 48.41,
+    "fats": 22.45,
+    "title": "Домашнє овесне печиво",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "b56246ee-4d5f-4b17-b0c3-f6f0a0d39743",
+    "proteins": 0.8,
+    "carbohydrates": 78.3,
+    "fats": 0,
+    "title": "Зефір",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "b666d3b0-c912-4ea2-a794-9c429d05711c",
+    "proteins": 13.5,
+    "carbohydrates": 0,
+    "fats": 2.5,
+    "title": "Бараняче Серце",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "b66f9872-1ce0-49e9-ad18-91ed1921d9e2",
+    "proteins": 0,
+    "carbohydrates": 77.7,
+    "fats": 0.1,
+    "title": "Мармелад",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "b6be9011-ef69-438e-9620-e545967aaf29",
+    "proteins": 18,
+    "carbohydrates": 30,
+    "fats": 44,
+    "title": "Кешʼю",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "b78284ce-690d-4817-a4c4-3c33f9283d30",
+    "proteins": 2.92,
+    "carbohydrates": 10.32,
+    "fats": 0.21,
+    "title": "Овочева суміш мексиканська",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "b83ab45b-21ba-486a-97b0-8049ca5a7cb8",
+    "proteins": 4,
+    "carbohydrates": 61.9,
+    "fats": 26,
+    "title": "Roshen Lovita choko",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "b90a607a-cbf3-453f-8c72-95a2a2fa872e",
+    "proteins": 3.31,
+    "carbohydrates": 18.81,
+    "fats": 0.54,
+    "title": "Каша пшенична",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "ba78e6b9-1e42-4618-8f52-4aa8cacc837c",
+    "proteins": 15.1,
+    "carbohydrates": 0,
+    "fats": 3.2,
+    "title": "Серце свиняче",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "baf631b1-fbb4-4e8b-a01e-d98008439cdc",
+    "proteins": 0,
+    "carbohydrates": 0,
+    "fats": 100,
+    "title": "Масло рослинне",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "bcc73078-aa40-4e47-8b2f-36be14e91e80",
+    "proteins": 3.83,
+    "carbohydrates": 20.7,
+    "fats": 0.79,
+    "title": "Гречка варена",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "bd9d695e-73d3-448a-8a4c-32d25e222781",
+    "proteins": 2.9,
+    "carbohydrates": 2.3,
+    "fats": 0.1,
+    "title": "Шпинат",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "be6e892a-bfb9-473f-841d-2ba7823377c5",
+    "proteins": 5.75,
+    "carbohydrates": 32.61,
+    "fats": 20.01,
+    "title": "Кекси кабачкові",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "bedb7874-2e75-42a8-922f-ca4109457eac",
+    "proteins": 2.6,
+    "carbohydrates": 4,
+    "fats": 6.93,
+    "title": "Овочі bonduelle 4 сезона зі сметаною",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "bedd4256-79b6-40d6-ae95-7b859e51822e",
+    "proteins": 4.7,
+    "carbohydrates": 50,
+    "fats": 24,
+    "title": "Плюшка",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "bf68d2f0-55ac-4bd4-b495-345f3e16650a",
+    "proteins": 0.9,
+    "carbohydrates": 10.5,
+    "fats": 0.4,
+    "title": "Абрикоси",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "bfe171e0-60d3-42d5-9202-598654dc2fdf",
+    "proteins": 2.75,
+    "carbohydrates": 1,
+    "fats": 84.44,
+    "title": "Сало",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "c05efae5-bddf-47b1-aa72-46375c1f99d2",
+    "proteins": 18,
+    "carbohydrates": 1.5,
+    "fats": 0.6,
+    "title": "Творог нежирний",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "c1005b7c-ca51-45f9-98dd-0bc1e07d2019",
+    "proteins": 14,
+    "carbohydrates": 1.3,
+    "fats": 18,
+    "title": "Творог жирний",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "c1866dd4-c0dc-4b49-bbf7-88fd54597ba6",
+    "proteins": 6,
+    "carbohydrates": 46,
+    "fats": 26,
+    "title": "Круасани 7 days з ваніллю",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "c5438199-7266-4df8-abe7-93e1e439acb0",
+    "proteins": 2.5,
+    "carbohydrates": 13.2,
+    "fats": 1.5,
+    "title": "Локо-моко йогурт банан",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "c6992816-5dc5-4e89-928d-443c34066a28",
+    "proteins": 2.9,
+    "carbohydrates": 76.6,
+    "fats": 10.7,
+    "title": "Цукерки глазуровані шоколадом",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "c78ce8dd-9116-4661-b6fa-d64970e74b89",
+    "proteins": 16,
+    "carbohydrates": 0,
+    "fats": 3.6,
+    "title": "Карп",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "c7a0bd62-3532-4d25-845c-8f5d04e2d299",
+    "proteins": 1,
+    "carbohydrates": 17,
+    "fats": 0.32,
+    "title": "Гранатовий соус",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "c7d23138-a232-43f0-b2be-cc352ec3084c",
+    "proteins": 10.4,
+    "carbohydrates": 71.7,
+    "fats": 1.3,
+    "title": "Ячмінна",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "c86135fa-5402-4a01-80c1-a18e4e0058a8",
+    "proteins": 7.2,
+    "carbohydrates": 56,
+    "fats": 8.5,
+    "title": "Молоко згущене з цукром",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "c86190aa-22a1-4891-baae-056b2c1e4b1a",
+    "proteins": 2.3,
+    "carbohydrates": 62.1,
+    "fats": 0.5,
+    "title": "Груша сушена",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "c8d4f250-645e-4d8a-a030-9a33788f6806",
+    "proteins": 10,
+    "carbohydrates": 52,
+    "fats": 24,
+    "title": "Roshen драже с арахисом",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "c96ffafd-31b6-4b1d-a775-9cc3728a805c",
+    "proteins": 7.93,
+    "carbohydrates": 51.8,
+    "fats": 1.43,
+    "title": "Лаваш грузинський",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "c9df881a-851f-4b26-8557-42f37a20b244",
+    "proteins": 0.8,
+    "carbohydrates": 8.6,
+    "fats": 0.2,
+    "title": "Мандарин",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "c9e8ad1e-9d9c-40a2-bbac-93156d815d31",
+    "proteins": 7.4,
+    "carbohydrates": 19.64,
+    "fats": 18.93,
+    "title": "Чізкейк домашній",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "c9ef3ce2-82a2-4409-836f-5e14fc48fbcd",
+    "proteins": 0.9,
+    "carbohydrates": 10.4,
+    "fats": 0.3,
+    "title": "Персики",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "cac224a6-efa6-4577-ac5a-56c2d9f600fb",
+    "proteins": 15,
+    "carbohydrates": 0,
+    "fats": 3,
+    "title": "Говяже серце",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "cb21310a-88c7-4ab3-989b-6c12cbbd0d5c",
+    "proteins": 10.94359,
+    "carbohydrates": 13.58141,
+    "fats": 14.716666,
+    "title": "Запіканка Орео",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "cb70282a-f6a1-43d7-bf5d-2fe185954a85",
+    "proteins": 20.7,
+    "carbohydrates": 0,
+    "fats": 12.9,
+    "title": "Кролик",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "cbf65749-1f55-4cbd-b030-4a15859df224",
+    "proteins": 18,
+    "carbohydrates": 0,
+    "fats": 0.8,
+    "title": "Креветка",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "cc09d4ca-5838-4e25-9b3f-40cd5225e951",
+    "proteins": 4.69,
+    "carbohydrates": 3.3,
+    "fats": 6.92,
+    "title": "Салат сметана огірки помідори",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "cd1e2c58-eeb4-4035-ad34-481611076d7c",
+    "proteins": 3,
+    "carbohydrates": 3.8,
+    "fats": 0.1,
+    "title": "Кефір нежирний",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "cdfd78cd-ab8a-4e77-9f8a-91fdc4e8ade3",
+    "proteins": 8.2,
+    "carbohydrates": 56.5,
+    "fats": 32,
+    "title": "Kinder joy",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "ce3ce56a-e892-41ea-b969-c49fe51b9b07",
+    "proteins": 1.5,
+    "carbohydrates": 11,
+    "fats": 0.1,
+    "title": "Петрушка (корінь)",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "cea92fd2-e9c0-41ea-bf10-a4794f0779bc",
+    "proteins": 9.14,
+    "carbohydrates": 29.33,
+    "fats": 6.22,
+    "title": "Оладки суфле",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "ceeda61f-b2ee-4468-a0b8-1f8e42acd933",
+    "proteins": 1.8,
+    "carbohydrates": 8.1,
+    "fats": 0.3,
+    "title": "Малина",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "cf39d6a0-e917-4f9d-a058-cc1662d71716",
+    "proteins": 1.5,
+    "carbohydrates": 5.9,
+    "fats": 0.1,
+    "title": "Ріпа",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "cfb50523-0403-473b-8c32-2a42e45a6a50",
+    "proteins": 3.4,
+    "carbohydrates": 2.61,
+    "fats": 2.05,
+    "title": "Суп харчо",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "cffcd412-4afc-40b9-94c7-efcd25b8ee57",
+    "proteins": 1.1,
+    "carbohydrates": 12.3,
+    "fats": 0.4,
+    "title": "Черешня",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "d0225531-2b3d-48b7-9c4a-c7761d79f2d9",
+    "proteins": 2.8,
+    "carbohydrates": 15.5,
+    "fats": 1.7,
+    "title": "Палента",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "d0c88774-c299-4d35-be43-3a5a3c57f28a",
+    "proteins": 26.3,
+    "carbohydrates": 9.7,
+    "fats": 45.2,
+    "title": "Арахіс",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "d1659725-bc4a-4491-b968-c5d0ab0126ac",
+    "proteins": 13,
+    "carbohydrates": 0,
+    "fats": 3.1,
+    "title": "Нирки свинячі",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "d1d4bcc5-7e99-43b3-949c-3b01626db1b7",
+    "proteins": 24.9,
+    "carbohydrates": 0,
+    "fats": 31.8,
+    "title": "Сир швейцарський",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "d21ffd50-3b94-40f5-baa5-b3d5d63a51be",
+    "proteins": 3.4,
+    "carbohydrates": 18.6,
+    "fats": 1.5,
+    "title": "Кукурудза варена",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "d3538e01-411d-4009-9297-fbc86c739f80",
+    "proteins": 13.6,
+    "carbohydrates": 0,
+    "fats": 2.5,
+    "title": "Баранячі Нирки",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "d3b6b0b7-8a12-4a2c-8636-7b4d34b38b40",
+    "proteins": 22.7,
+    "carbohydrates": 0,
+    "fats": 0.7,
+    "title": "Тунець",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "d4f6bb9e-80c7-49bf-92d9-52c0ae32f6f3",
+    "proteins": 2.1,
+    "carbohydrates": 4,
+    "fats": 0.4,
+    "title": "Овочі бондюель для супу зелений",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "d53f7939-df15-478b-a756-04452dcdbd6d",
+    "proteins": 1.4,
+    "carbohydrates": 12,
+    "fats": 0.1,
+    "title": "Кетчуп Heinz kids",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "d5568822-80f0-4608-a4e5-3151a058e16e",
+    "proteins": 16.1,
+    "carbohydrates": 0,
+    "fats": 33.3,
+    "title": "Гуси",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "d6d6b1f4-b0d9-4f85-a161-6958711a8a8b",
+    "proteins": 25,
+    "carbohydrates": 15,
+    "fats": 47,
+    "title": "Арахісова паста Felix",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "d6e769b9-e42e-4273-abf4-9ca1418c7a73",
+    "proteins": 8.6,
+    "carbohydrates": 49.5,
+    "fats": 37.3,
+    "title": "Kinder bueno",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "d7f16901-b3c0-4cf8-b8d5-ab0b4c8b5075",
+    "proteins": 24.8,
+    "carbohydrates": 53.7,
+    "fats": 1.1,
+    "title": "Лінза",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "d90ee06b-8e5e-473f-bfab-83bd4ad447a4",
+    "proteins": 6.36,
+    "carbohydrates": 22.68,
+    "fats": 1.67,
+    "title": "Оладки 50×50 борошно тверде та біле",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "d92d60c7-c7c0-4a97-bacf-370a059be651",
+    "proteins": 8.69,
+    "carbohydrates": 3.71,
+    "fats": 21.43,
+    "title": "Мімоза",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "d98d922a-1d05-4cc1-8782-0d35f7f869eb",
+    "proteins": 18.6,
+    "carbohydrates": 13.6,
+    "fats": 57.7,
+    "title": "Мигдаль",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "d9d8f1d1-c054-4ef9-a824-7a82d0c727ab",
+    "proteins": 20,
+    "carbohydrates": 0.4,
+    "fats": 13,
+    "title": "Хамон",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "d9f15c73-7d3d-4504-9fdd-76f60068aa7f",
+    "proteins": 0.8,
+    "carbohydrates": 3,
+    "fats": 0.1,
+    "title": "Огірки грунтові",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "da45d134-bd4f-422a-9e9e-b956bb6f1c4a",
+    "proteins": 10.1,
+    "carbohydrates": 61.3,
+    "fats": 1.9,
+    "title": "Булгур сухий",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "daf43963-0398-487a-8a80-361ae454d526",
+    "proteins": 1,
+    "carbohydrates": 10.3,
+    "fats": 0.6,
+    "title": "Ківі",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "dbccdaf4-ebcb-4ba7-8cd5-086c7a0fe130",
+    "proteins": 3.6,
+    "carbohydrates": 5,
+    "fats": 9,
+    "title": "Йогурт грецький",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "dc2743e5-1de4-4b94-bf04-8a5900bbf2e7",
+    "proteins": 13.1,
+    "carbohydrates": 65.7,
+    "fats": 6.2,
+    "title": "Геркулес",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "dc728d69-6c02-42f8-8466-6c7205229c0c",
+    "proteins": 13,
+    "carbohydrates": 70,
+    "fats": 3.2,
+    "title": "Листи лазаньї PastaZara",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "dce1040c-a87f-4fa5-b41a-2c1d65bd55d8",
+    "proteins": 1.6,
+    "carbohydrates": 6,
+    "fats": 13.1,
+    "title": "Авакадо",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "de0f204b-c653-46aa-aae3-f0a333941a4a",
+    "proteins": 3.13,
+    "carbohydrates": 24.27,
+    "fats": 1.89,
+    "title": "Рис варений",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "de25e6e6-036f-4d4b-bd6d-45f423592112",
+    "proteins": 12.6,
+    "carbohydrates": 68,
+    "fats": 2.6,
+    "title": "Гречкова крупа",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "de523b22-cf44-43fb-aac8-b14f610c5a9c",
+    "proteins": 20.2,
+    "carbohydrates": 0,
+    "fats": 7,
+    "title": "Конина",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "e0826765-2fad-4426-a074-0274164df472",
+    "proteins": 27.6,
+    "carbohydrates": 10,
+    "fats": 6.8,
+    "title": "Гриби Білі сушені",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "e0b09770-715b-41fe-a985-a3a7dd199cbf",
+    "proteins": 26,
+    "carbohydrates": 10,
+    "fats": 45,
+    "title": "Арахісова паста з шоколадом",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "e0fc192e-4db8-4d25-9375-ec11623f3534",
+    "proteins": 16,
+    "carbohydrates": 55,
+    "fats": 15,
+    "title": "Кріп",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "e10f7d60-7996-4794-9277-8dee59421831",
+    "proteins": 12.1,
+    "carbohydrates": 2.5,
+    "fats": 17.1,
+    "title": "Фета",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "e17739a4-2ab1-48c0-b0cd-133a5b16e1ba",
+    "proteins": 2.29,
+    "carbohydrates": 9.39,
+    "fats": 1.73,
+    "title": "Гарбузова каша",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "e2ac1b21-b597-4091-a158-c5ee1491a63f",
+    "proteins": 23,
+    "carbohydrates": 57.7,
+    "fats": 1.6,
+    "title": "Горох лущений",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "e324ffb4-42a4-4fc9-8fd0-8e41fe93472e",
+    "proteins": 18,
+    "carbohydrates": 0,
+    "fats": 9,
+    "title": "Скумбрія",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "e39a024b-8d82-4e20-a5bf-f49364bec4b4",
+    "proteins": 9.76,
+    "carbohydrates": 12.19,
+    "fats": 20.31,
+    "title": "Кіш фета",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "e5029236-d5aa-4696-929a-4c33f1338b51",
+    "proteins": 7.7,
+    "carbohydrates": 54.5,
+    "fats": 3,
+    "title": "Батон сіхівський",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "e5149da0-9863-4aba-81e3-6250c53acb56",
+    "proteins": 6,
+    "carbohydrates": 33.66,
+    "fats": 24.2,
+    "title": "Пиріг Зебра",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "e5d6c949-037e-4b85-b66b-1c82a4c70694",
+    "proteins": 0.5,
+    "carbohydrates": 4.8,
+    "fats": 0.1,
+    "title": "Клюква",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "e5e38761-a5e6-44aa-a32a-54590539f9e3",
+    "proteins": 4.91,
+    "carbohydrates": 22.64,
+    "fats": 2.81,
+    "title": "Оладки з яблуком рецепт",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "e5e56b12-19a0-4c37-ad39-5e06d42acbaf",
+    "proteins": 7.5,
+    "carbohydrates": 26.8,
+    "fats": 19.1,
+    "title": "Cheese Puffs",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "e691a91c-7213-4f2f-a8b0-2bc75c0491f7",
+    "proteins": 7.2,
+    "carbohydrates": 44.9,
+    "fats": 1.3,
+    "title": "Хліб Бородинський Румʼянець",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "e8262ee0-9046-46f7-b7e7-701b326e1e01",
+    "proteins": 2.63,
+    "carbohydrates": 10.71,
+    "fats": 5.4,
+    "title": "Шейк",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "e84ff114-c093-4f1c-9588-3d10aa85ea2d",
+    "proteins": 17.7,
+    "carbohydrates": 0,
+    "fats": 19.5,
+    "title": "Оселедець",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "e905a180-6468-41d6-9418-92b06563e105",
+    "proteins": 1.3,
+    "carbohydrates": 4.3,
+    "fats": 0.1,
+    "title": "Цибуля зелена (перо)",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "e9fd74fc-e202-48de-bead-298b85ddb110",
+    "proteins": 0.6,
+    "carbohydrates": 8.9,
+    "fats": 0.1,
+    "title": "Груші",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "ea6fe814-6ff0-4e25-9f16-837072448633",
+    "proteins": 10,
+    "carbohydrates": 40,
+    "fats": 20,
+    "title": "Пампушка",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "eb714203-3d34-409b-89ec-21ec6ab5df02",
+    "proteins": 0.5,
+    "carbohydrates": 15.9,
+    "fats": 0.4,
+    "title": "Хурма",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "ecb6e992-1d7c-439d-a811-da6ca4e5f41b",
+    "proteins": 0.8,
+    "carbohydrates": 11.3,
+    "fats": 0.3,
+    "title": "Вишня",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "ecbc2070-2026-416f-ac64-0f8b01b2dda4",
+    "proteins": 2.1,
+    "carbohydrates": 2,
+    "fats": 33,
+    "title": "Збиті вершки 33%",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "ed5d5c2e-f4d3-4ff0-9e29-85efbc37e210",
+    "proteins": 3,
+    "carbohydrates": 16.56,
+    "fats": 0.3,
+    "title": "Хурма шарон",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "edc8daa1-a6f4-46f3-9294-8943d4b94161",
+    "proteins": 16.85,
+    "carbohydrates": 1.6,
+    "fats": 13.02,
+    "title": "Сирно-мʼясний рулет",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "ef19eae5-0987-4642-bdd6-ea7f0a15b1e5",
+    "proteins": 3.74,
+    "carbohydrates": 2.19,
+    "fats": 1.77,
+    "title": "Суп із фрикадельками",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "ef43d619-081f-476d-9ebf-61ec26770b50",
+    "proteins": 38,
+    "carbohydrates": 4.1,
+    "fats": 29,
+    "title": "Пармезан",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "efd1d7be-48fa-4b29-bc20-75f6ff9d99a4",
+    "proteins": 23.4,
+    "carbohydrates": 0,
+    "fats": 30,
+    "title": "Сир російський",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "f0d1e81f-cb39-4277-a22c-9b750d8b2bf8",
+    "proteins": 5.2,
+    "carbohydrates": 38,
+    "fats": 1.6,
+    "title": "Вареники з вишнею",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "f288001d-d578-4973-9026-8cfce318f4f8",
+    "proteins": 16.1,
+    "carbohydrates": 9.9,
+    "fats": 66.9,
+    "title": "Фундук, Горіх лісовий",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "f337a6e9-9d62-47f1-b847-3fb8d3141a4e",
+    "proteins": 11.63,
+    "carbohydrates": 29.34,
+    "fats": 38.33,
+    "title": "Печиво кокосанка",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "f4284465-2f78-4b28-b107-1595d1eab877",
+    "proteins": 0.3,
+    "carbohydrates": 13.9,
+    "fats": 0.1,
+    "title": "Персики консервовані",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "f4679881-c262-4d40-9bd7-e952c42ccfc5",
+    "proteins": 12.31,
+    "carbohydrates": 6.85,
+    "fats": 9.05,
+    "title": "Творожна запіканка",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "f4de7dd4-d821-47f2-9c38-efeb421c1aa3",
+    "proteins": 12.2,
+    "carbohydrates": 72,
+    "fats": 1,
+    "title": "Борошно з твердих сортів",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "f69b56e9-6049-4c37-bbee-dcaaa737c3e5",
+    "proteins": 0.2,
+    "carbohydrates": 7.4,
+    "fats": 0.1,
+    "title": "Алича",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "f6e34526-3e41-44e5-b748-35437fc4e4fa",
+    "proteins": 0.9,
+    "carbohydrates": 11.8,
+    "fats": 1.2,
+    "title": "Гранат",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "f73d48ee-a357-4abe-9c16-69a22a016a07",
+    "proteins": 10,
+    "carbohydrates": 76,
+    "fats": 1,
+    "title": "Борошно біле",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "f87df39c-4c6f-4ea7-a188-57ecd23bf196",
+    "proteins": 10.599248,
+    "carbohydrates": 13.417669,
+    "fats": 15.209398,
+    "title": "Кіш з лососем",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "f8963cf0-e3e7-4103-b929-eb661312bdaa",
+    "proteins": 11.3,
+    "carbohydrates": 73.3,
+    "fats": 0.7,
+    "title": "Манна",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "f8e92850-763e-4246-bca0-e3f740818199",
+    "proteins": 4.75,
+    "carbohydrates": 35.88,
+    "fats": 21.83,
+    "title": "Торт Наполеон",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "f9a2b8c4-ce39-49ae-9869-2bbd53e1dffe",
+    "proteins": 14.68,
+    "carbohydrates": 18.3,
+    "fats": 7.23,
+    "title": "Сирники з білою мукою та стевією",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "fa293328-7c46-499d-9cce-701ca473cdaf",
+    "proteins": 22,
+    "carbohydrates": 0,
+    "fats": 5.6,
+    "title": "Кета",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "fa3bcba1-d598-4dd3-aaa5-4116d8996791",
+    "proteins": 16.7,
+    "carbohydrates": 2,
+    "fats": 9,
+    "title": "Творог півжирний",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "faa12b45-6331-40df-ae42-401c8a93e9fe",
+    "proteins": 13.8,
+    "carbohydrates": 10.2,
+    "fats": 61.3,
+    "title": "Грецький горіх",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "fb01aa04-4680-4a9e-8d41-13ad08058eeb",
+    "proteins": 20,
+    "carbohydrates": 28,
+    "fats": 45,
+    "title": "Фісташки",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "fbca9d33-fe57-4b9c-94ed-03f49eb9db90",
+    "proteins": 1,
+    "carbohydrates": 8,
+    "fats": 0.4,
+    "title": "Смородина чорна",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "fcf7d2c9-f01b-4aa6-ab82-8b95d2431b35",
+    "proteins": 6.3,
+    "carbohydrates": 34,
+    "fats": 13,
+    "title": "Сир Philadelphia milka",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "fda6b3a6-a4d7-4cce-8fa2-52f209e6a995",
+    "proteins": 17,
+    "carbohydrates": 1,
+    "fats": 30,
+    "title": "Frankfurterki Morliny",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "fdf6d1a6-72c0-43f6-8089-59f1c6b71864",
+    "proteins": 5,
+    "carbohydrates": 13.3,
+    "fats": 0.2,
+    "title": "Горошина зелена",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "fe36c9a3-4c5c-441f-bd5a-8d00c967210b",
+    "proteins": 8.9,
+    "carbohydrates": 31.61,
+    "fats": 18.54,
+    "title": "Творожний кекс",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "fef7b9b0-8b10-4612-9aa1-edc782c9a25a",
+    "proteins": 2,
+    "carbohydrates": 10,
+    "fats": 0.5,
+    "title": "Ожина",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "ff1025ba-ace9-4a40-8962-586b8c9a8bd8",
+    "proteins": 34.9,
+    "carbohydrates": 26.5,
+    "fats": 17.3,
+    "title": "Соя",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "ff773202-a72c-4b97-a855-aba67b93bddd",
+    "proteins": 5.9151673,
+    "carbohydrates": 20.310154,
+    "fats": 7.3457584,
+    "title": "Оладки з родзинками",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  },
+  {
+    "id": "ffe92f4a-ab05-464b-8f6e-146a794060b8",
+    "proteins": 11.5,
+    "carbohydrates": 73,
+    "fats": 1.5,
+    "title": "Canneloni",
+    "userId": "cm6ov7vcw0000v8kbgl3l3nbq"
+  }
+]

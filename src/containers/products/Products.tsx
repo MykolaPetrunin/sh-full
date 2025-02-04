@@ -6,7 +6,8 @@ import { clsx } from 'clsx';
 import { SearchInput } from '@/components/searchInput/SearchInput';
 import { productsListTexts } from '@/components/productsList/texts';
 import { Separator } from '@/components/ui/separator';
-import { ProductsFetcher } from '@/containers/products/components/ProductsFetcher';
+import { ProductsData } from '@/containers/products/components/ProductsData';
+import { ProductsSceleton } from '@/components/skeletons/products/ProductsSceleton';
 
 export const Products: FC<{ searchText: string }> = async ({ searchText }) => {
     return (
@@ -16,11 +17,9 @@ export const Products: FC<{ searchText: string }> = async ({ searchText }) => {
             </div>
             <Separator />
             <div className="grow relative">
-                <div className="absolute overflow-y-auto inset-0">
-                    <Suspense key={searchText} fallback={<div>Loading...</div>}>
-                        <ProductsFetcher limit={30} search={searchText} />
-                    </Suspense>
-                </div>
+                <Suspense key={searchText} fallback={<ProductsSceleton />}>
+                    <ProductsData limit={10} search={searchText} />
+                </Suspense>
             </div>
         </div>
     );

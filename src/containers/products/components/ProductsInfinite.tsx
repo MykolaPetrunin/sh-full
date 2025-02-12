@@ -2,9 +2,11 @@
 
 import { FC, useCallback, useState, useTransition } from 'react';
 import { Product } from '@prisma/client';
+import { toast } from 'sonner';
 
 import { ProductsList } from '@/components/productsList/ProductsList';
 import { getProducts } from '@/controllers/products/getProducts';
+import { ResStatuses } from '@/controllers/types';
 
 export const ProductsInfinite: FC<{
     initProducts: Product[];
@@ -12,7 +14,7 @@ export const ProductsInfinite: FC<{
     search?: string;
     limit: number;
 }> = ({ initProducts, initNextCursor, search, limit }) => {
-    const [products, setProducts] = useState<Product[]>(initProducts);
+    const [products, setProducts] = useState<Product[]>([]);
     const [nextCursor, setNextCursor] = useState<string | null>(initNextCursor);
     const [isLoadingMore, startLoadMore] = useTransition();
 
@@ -20,13 +22,19 @@ export const ProductsInfinite: FC<{
         async () =>
             startLoadMore(async () => {
                 if (!nextCursor) return;
-                const res = await getProducts({ search, limit, cursor: nextCursor });
+                const { message, data, status } = await getProducts({ search, limit, cursor: nextCursor });
 
-                setNextCursor(res.nextCursor);
-                setProducts((prev) => [...prev, ...res.products]);
+                if (status !== ResStatuses.Success) {
+                    toast.error(message, {
+                        position: 'top-right'
+                    });
+                    return;
+                }
+                setNextCursor(data!.nextCursor);
+                setProducts((prev) => [...prev, ...data!.data]);
             }),
         [limit, nextCursor, search]
     );
 
-    return <ProductsList products={products} hasMoreItems={!!nextCursor} isLoadingMore={isLoadingMore} loadMore={fetchMore} />;
+    return <ProductsList products={[...initProducts, ...products]} hasMoreItems={!!nextCursor} isLoadingMore={isLoadingMore} loadMore={fetchMore} />;
 };

@@ -13,6 +13,8 @@ import { ProductsSceleton } from '@/components/skeletons/products/ProductsScelet
 import { appPaths } from '@/configs/appPaths';
 
 export const Products: FC<{ searchText: string }> = async ({ searchText }) => {
+    const renderTimestamp = Date.now();
+
     return (
         <div className={clsx('min-h-full flex flex-col-reverse', 'sm:flex-col')}>
             <div className="p-6 flex items-center gap-4">
@@ -23,7 +25,7 @@ export const Products: FC<{ searchText: string }> = async ({ searchText }) => {
             </div>
             <Separator />
             <div className="grow relative">
-                <Suspense key={searchText} fallback={<ProductsSceleton />}>
+                <Suspense key={searchText + renderTimestamp} fallback={<ProductsSceleton />}>
                     <ProductsData limit={10} search={searchText} />
                 </Suspense>
             </div>

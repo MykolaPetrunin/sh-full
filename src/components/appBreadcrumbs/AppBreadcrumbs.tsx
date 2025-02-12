@@ -4,7 +4,7 @@ import { FC, Fragment } from 'react';
 import { usePathname } from 'next/navigation';
 import Link from 'next/link';
 
-import { Breadcrumb, BreadcrumbItem, BreadcrumbLink, BreadcrumbList, BreadcrumbPage, BreadcrumbSeparator } from '@/components/ui/breadcrumb';
+import { Breadcrumb, BreadcrumbItem, BreadcrumbList, BreadcrumbPage, BreadcrumbSeparator } from '@/components/ui/breadcrumb';
 import { items } from '@/components/appBreadcrumbs/configs';
 
 export const AppBreadcrumbs: FC = () => {
@@ -26,9 +26,7 @@ export const AppBreadcrumbs: FC = () => {
                         ) : (
                             <>
                                 <BreadcrumbItem className="hidden md:block">
-                                    <BreadcrumbLink>
-                                        <Link href={url}>{title}</Link>
-                                    </BreadcrumbLink>
+                                    <Link href={url}>{title}</Link>
                                 </BreadcrumbItem>
                                 <BreadcrumbSeparator className="hidden md:block" />
                             </>

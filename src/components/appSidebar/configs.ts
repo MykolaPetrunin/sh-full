@@ -10,10 +10,9 @@ export const menuItems: MainMenuItem[] = [
         url: appPaths.meals,
         Icon: SoupIcon
     },
-
     {
         title: appSidebarTexts.menuItems.products,
-        url: appPaths.products,
+        url: appPaths.products.general,
         Icon: ShoppingBagIcon
     },
     {

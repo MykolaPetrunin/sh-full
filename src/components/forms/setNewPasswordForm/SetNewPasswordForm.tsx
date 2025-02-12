@@ -6,16 +6,16 @@ import { zodResolver } from '@hookform/resolvers/zod';
 import { LoaderPinwheelIcon } from 'lucide-react';
 
 import { Card, CardContent, CardDescription, CardFooter, CardHeader, CardTitle } from '@/components/ui/card';
-import { setNewPasswordFormTexts } from '@/components/setNewPasswordForm/texts';
+import { setNewPasswordFormTexts } from '@/components/forms/setNewPasswordForm/texts';
 import { appPaths } from '@/configs/appPaths';
 import { Button, buttonVariants } from '@/components/ui/button';
 import { cn } from '@/lib/utils';
 import { Form, FormControl, FormField, FormItem, FormLabel, FormMessage } from '@/components/ui/form';
 import { Input } from '@/components/ui/input';
-import { setNewPasswordSchema } from '@/components/setNewPasswordForm/validations';
-import { NoOobCode } from '@/components/setNewPasswordForm/components/NoOobCode';
-import { PasswordSet } from '@/components/setNewPasswordForm/components/PasswordSet';
-import { SetNewPasswordData } from '@/components/setNewPasswordForm/types';
+import { setNewPasswordSchema } from '@/components/forms/setNewPasswordForm/validations';
+import { NoOobCode } from '@/components/forms/setNewPasswordForm/components/NoOobCode';
+import { PasswordSet } from '@/components/forms/setNewPasswordForm/components/PasswordSet';
+import { SetNewPasswordData } from '@/components/forms/setNewPasswordForm/types';
 
 export const SetNewPasswordForm: FC<{
     oobCode?: string;

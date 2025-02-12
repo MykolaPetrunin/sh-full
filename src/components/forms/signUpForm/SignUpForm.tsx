@@ -7,10 +7,10 @@ import { LoaderPinwheelIcon } from 'lucide-react';
 import { Button } from '@/components/ui/button';
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
 import { Input } from '@/components/ui/input';
-import { signUpSchema } from '@/components/signUpForm/validations';
+import { signUpSchema } from '@/components/forms/signUpForm/validations';
 import { Form, FormControl, FormField, FormItem, FormLabel, FormMessage } from '@/components/ui/form';
-import { SignUpData } from '@/components/signUpForm/types';
-import { signUpFormTexts } from '@/components/signUpForm/texts';
+import { SignUpData } from '@/components/forms/signUpForm/types';
+import { signUpFormTexts } from '@/components/forms/signUpForm/texts';
 
 export const SignUpForm: FC<{ back: () => void; signUp: (val: SignUpData) => Promise<void> }> = ({ back, signUp }) => {
     const form = useForm<z.infer<typeof signUpSchema>>({

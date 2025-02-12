@@ -7,10 +7,10 @@ import { LoaderPinwheelIcon } from 'lucide-react';
 import { Input } from '@/components/ui/input';
 import { Card, CardContent, CardDescription, CardFooter, CardHeader, CardTitle } from '@/components/ui/card';
 import { Button } from '@/components/ui/button';
-import { resetPasswordSchema } from '@/components/resetPasswordForm/validations';
+import { resetPasswordSchema } from '@/components/forms/resetPasswordForm/validations';
 import { Form, FormControl, FormField, FormItem, FormLabel, FormMessage } from '@/components/ui/form';
-import { resetPasswordFormTexts } from '@/components/resetPasswordForm/texts';
-import { ResetPasswordData } from '@/components/resetPasswordForm/types';
+import { resetPasswordFormTexts } from '@/components/forms/resetPasswordForm/texts';
+import { ResetPasswordData } from '@/components/forms/resetPasswordForm/types';
 
 export const ResetPasswordForm: FC<{
     back: () => void;
@@ -46,7 +46,7 @@ export const ResetPasswordForm: FC<{
 
     return (
         <Form {...form}>
-            <form onSubmit={form.handleSubmit(onSubmit)} className="flex flex-col gap-9">
+            <form onSubmit={form.handleSubmit(onSubmit)}>
                 <Card>
                     <CardHeader className="text-center">
                         <CardTitle className="text-xl">{resetPasswordFormTexts.title}</CardTitle>

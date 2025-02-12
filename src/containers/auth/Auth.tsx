@@ -6,13 +6,13 @@ import { toast } from 'sonner';
 
 import { LoginForm } from '@/components/loginForm/LoginForm';
 import { AuthState, ResetPasswordError, SignUpError, SinInWithPasswordError, SinInWithPopupError } from '@/containers/auth/types';
-import { SignUpForm } from '@/components/signUpForm/SignUpForm';
-import { ResetPasswordForm } from '@/components/resetPasswordForm/ResetPasswordForm';
-import { SignUpData } from '@/components/signUpForm/types';
+import { SignUpForm } from '@/components/forms/signUpForm/SignUpForm';
+import { ResetPasswordForm } from '@/components/forms/resetPasswordForm/ResetPasswordForm';
+import { SignUpData } from '@/components/forms/signUpForm/types';
 import getFirebaseAuth from '@/containers/auth/services/getFirebaseAuth';
 import { logIn } from '@/containers/auth/services/logIn';
 import { authTexts } from '@/containers/auth/texts';
-import { ResetPasswordData } from '@/components/resetPasswordForm/types';
+import { ResetPasswordData } from '@/components/forms/resetPasswordForm/types';
 import { SignInData } from '@/components/loginForm/types';
 
 export const Auth: FC = () => {

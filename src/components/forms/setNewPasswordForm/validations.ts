@@ -1,6 +1,6 @@
 import { z } from 'zod';
 
-import { setNewPasswordFormTexts } from '@/components/setNewPasswordForm/texts';
+import { setNewPasswordFormTexts } from '@/components/forms/setNewPasswordForm/texts';
 
 export const setNewPasswordSchema = z
     .object({

@@ -1,6 +1,6 @@
 import { z } from 'zod';
 
-import { signUpFormTexts } from '@/components/signUpForm/texts';
+import { signUpFormTexts } from '@/components/forms/signUpForm/texts';
 
 export const signUpSchema = z
     .object({

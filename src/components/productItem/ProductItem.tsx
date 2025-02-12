@@ -5,16 +5,20 @@ import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
 import { Separator } from '@/components/ui/separator';
 import { productItemTexts } from '@/components/productItem/texts';
 import { formatNumber } from '@/utils/formatNumber';
+import { DeleteButton } from '@/components/deleteButton/DeleteButton';
 
-export const ProductItem: FC<{ product: Product }> = ({ product }) => {
+export const ProductItem: FC<{ product: Product; onItemDelete?: () => Promise<void> }> = ({ product, onItemDelete }) => {
     const calories = useMemo(() => {
         return product.carbohydrates * 4 + product.fats * 9 + product.proteins * 4;
     }, [product]);
 
     return (
         <Card>
-            <CardHeader className="p-4">
-                <CardTitle className="text-md font-medium">{product.title}</CardTitle>
+            <CardHeader className="p-4 ">
+                <CardTitle className="text-md font-medium flex justify-between items-center">
+                    {product.title}
+                    {onItemDelete && <DeleteButton productName={product.title} onSubmit={onItemDelete} />}
+                </CardTitle>
             </CardHeader>
             <Separator />
             <CardContent className="p-0 flex justify-between items-center flex-col">

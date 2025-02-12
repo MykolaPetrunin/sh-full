@@ -4,7 +4,7 @@ import { FC, useCallback, useState } from 'react';
 import { createUserWithEmailAndPassword, sendPasswordResetEmail, signInWithEmailAndPassword, signInWithPopup, GoogleAuthProvider } from 'firebase/auth';
 import { toast } from 'sonner';
 
-import { LoginForm } from '@/components/loginForm/LoginForm';
+import { LoginForm } from '@/components/forms/loginForm/LoginForm';
 import { AuthState, ResetPasswordError, SignUpError, SinInWithPasswordError, SinInWithPopupError } from '@/containers/auth/types';
 import { SignUpForm } from '@/components/forms/signUpForm/SignUpForm';
 import { ResetPasswordForm } from '@/components/forms/resetPasswordForm/ResetPasswordForm';
@@ -13,7 +13,7 @@ import getFirebaseAuth from '@/containers/auth/services/getFirebaseAuth';
 import { logIn } from '@/containers/auth/services/logIn';
 import { authTexts } from '@/containers/auth/texts';
 import { ResetPasswordData } from '@/components/forms/resetPasswordForm/types';
-import { SignInData } from '@/components/loginForm/types';
+import { SignInData } from '@/components/forms/loginForm/types';
 
 export const Auth: FC = () => {
     const [currentState, setCurrentState] = useState<AuthState>(AuthState.Login);

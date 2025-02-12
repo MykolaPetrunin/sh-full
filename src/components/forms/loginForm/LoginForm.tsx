@@ -7,10 +7,10 @@ import { LoaderPinwheelIcon } from 'lucide-react';
 import { Input } from '@/components/ui/input';
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '@/components/ui/card';
 import { Button } from '@/components/ui/button';
-import { loginFormSchema } from '@/components/loginForm/validations';
-import { SignInData } from '@/components/loginForm/types';
+import { loginFormSchema } from '@/components/forms/loginForm/validations';
+import { SignInData } from '@/components/forms/loginForm/types';
 import { Form, FormControl, FormField, FormItem, FormLabel, FormMessage } from '@/components/ui/form';
-import { loginFormTexts } from '@/components/loginForm/texts';
+import { loginFormTexts } from '@/components/forms/loginForm/texts';
 
 export const LoginForm: FC<{
     signUp: () => void;

@@ -12,13 +12,15 @@ import { Input } from '@/components/ui/input';
 import { productConstructorFormTexts } from '@/components/forms/productConstructorForm/texts';
 import { Button } from '@/components/ui/button';
 import { ProductCreateData, ProductEditData } from '@/components/forms/productConstructorForm/types';
+import { DeleteButton } from '@/components/deleteButton/DeleteButton';
 
 export const ProductConstructorForm: FC<{
     value?: Product;
     close: () => void;
     edit?: (val: ProductEditData) => Promise<void>;
     create?: (val: ProductCreateData) => Promise<void>;
-}> = ({ value, close, edit, create }) => {
+    remove?: () => Promise<void>;
+}> = ({ value, close, edit, create, remove }) => {
     const form = useForm<z.infer<typeof productSchema>>({
         resolver: zodResolver(productSchema),
         defaultValues: {
@@ -42,7 +44,10 @@ export const ProductConstructorForm: FC<{
                 <form onSubmit={form.handleSubmit(onSubmit)} className="flex flex-col gap-9">
                     <Card>
                         <CardHeader>
-                            <CardTitle>{value ? productConstructorFormTexts.title.edit : productConstructorFormTexts.title.create}</CardTitle>
+                            <CardTitle className="flex justify-between items-center">
+                                {value ? productConstructorFormTexts.title.edit : productConstructorFormTexts.title.create}
+                                {remove && <DeleteButton productName={value?.title || ''} onSubmit={remove} />}
+                            </CardTitle>
                         </CardHeader>
                         <CardContent className="flex flex-col gap-6">
                             <FormField

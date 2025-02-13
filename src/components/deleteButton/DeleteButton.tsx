@@ -20,7 +20,7 @@ export const DeleteButton: FC<{ productName: string; onSubmit: () => Promise<voi
                     {isDeleting ? <LoaderPinwheelIcon className="animate-spin" /> : <Trash2 />}
                 </Button>
             </DialogTrigger>
-            <DialogContent>
+            <DialogContent onClick={(e) => e.stopPropagation()}>
                 <DialogHeader>
                     <DialogTitle>{deleteButtonTexts.title}</DialogTitle>
                     <DialogDescription>{deleteButtonTexts.description(productName)}</DialogDescription>

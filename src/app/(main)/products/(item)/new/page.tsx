@@ -2,8 +2,8 @@ import { FC } from 'react';
 
 import { NewProduct } from '@/containers/newProduct/NewProduct';
 
-const ProductsPage: FC = async () => {
+const NewProductsPage: FC = async () => {
     return <NewProduct />;
 };
 
-export default ProductsPage;
+export default NewProductsPage;

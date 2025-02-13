@@ -1,14 +1,15 @@
 'use client';
 
-import { FC, useCallback, useContext, useState, useTransition } from 'react';
+import { FC, useCallback, useState, useTransition } from 'react';
 import { Product } from '@prisma/client';
 import { toast } from 'sonner';
+import { useRouter } from 'next/navigation';
 
 import { ProductsList } from '@/components/productsList/ProductsList';
 import { getProducts } from '@/controllers/products/getProducts';
 import { ResStatuses } from '@/controllers/types';
 import { deleteProduct } from '@/controllers/products/deleteProduct';
-import { CurrentUserContext } from '@/providers/currentUser/CurrentUserProvider';
+import { appPaths } from '@/configs/appPaths';
 
 export const ProductsInfinite: FC<{
     initProducts: Product[];
@@ -16,7 +17,7 @@ export const ProductsInfinite: FC<{
     search?: string;
     limit: number;
 }> = ({ initProducts, initNextCursor, search, limit }) => {
-    const currentUser = useContext(CurrentUserContext);
+    const router = useRouter();
     const [products, setProducts] = useState<Product[]>(initProducts);
     const [nextCursor, setNextCursor] = useState<string | null>(initNextCursor);
     const [isLoadingMore, startLoadMore] = useTransition();
@@ -53,8 +54,8 @@ export const ProductsInfinite: FC<{
 
     return (
         <ProductsList
-            currentUser={currentUser!}
             onItemDelete={handleItemDelete}
+            onItemSelect={({ id }) => router.push(appPaths.products.edit(id))}
             products={products}
             hasMoreItems={!!nextCursor}
             isLoadingMore={isLoadingMore}

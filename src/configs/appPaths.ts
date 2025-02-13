@@ -4,7 +4,7 @@ export const appPaths = {
     products: {
         general: '/products',
         new: '/products/new',
-        edit: '/products/edit/:id'
+        edit: (productId: string) => `/products/${productId}`
     },
     recipes: '/recipes',
     auth: {

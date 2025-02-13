@@ -22,7 +22,6 @@ export const NewProduct = () => {
             });
             return;
         }
-        await new Promise((resolve) => setTimeout(resolve, 1000));
 
         await revalidateRoute({ route: appPaths.products.general });
     }, []);
